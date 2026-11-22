@@ -15,5 +15,10 @@
   {"name":"TR Sport","logo_url":null,"stream_url":"https://livetr.teleromagna.it/mia/live/playlist.m3u8","category":"sports","is_active":true},
   {"name":"Al Jazeera Documentary","logo_url":null,"stream_url":"https://live-hls-web-ajd.getaj.net/AJD/index.m3u8","category":"documentary","is_active":true},
   {"name":"CGTN Documentary","logo_url":null,"stream_url":"https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8","category":"documentary","is_active":true},
-  {"name":"RT Documentary","logo_url":null,"stream_url":"https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8","category":"documentary","is_active":true}
+  {"name":"RT Documentary","logo_url":null,"stream_url":"https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8","category":"documentary","is_active":true},
+  {"name":"iFilm Persian","logo_url":null,"stream_url":"https://live.presstv.co.uk/hls/ifilmfa.m3u8","category":"local","is_active":true},
+  {"name":"iFilm 2","logo_url":null,"stream_url":"https://live.presstv.co.uk/hls/ifilm2.m3u8","category":"local","is_active":true},
+  {"name":"iFilm Arabic","logo_url":null,"stream_url":"https://live.presstv.co.uk/hls/ifilmar.m3u8","category":"local","is_active":true},
+  {"name":"iFilm English","logo_url":null,"stream_url":"https://live.presstv.co.uk/hls/ifilmen.m3u8","category":"local","is_active":true},
+  {"name":"Press TV French","logo_url":null,"stream_url":"https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8","category":"news","is_active":true}
 ]
