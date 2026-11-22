@@ -1,0 +1,11 @@
+{
+  "name": "NSR TV",
+  "short_name": "NSR TV",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090e1b",
+  "theme_color": "#090e1b",
+  "description": "NSR TV live television channels",
+  "icons": []
+}
