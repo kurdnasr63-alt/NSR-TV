@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ku" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#090e1b">
+  <title>NSR TV | Live Television</title>
+  <link rel="manifest" href="./manifest.json">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./" aria-label="NSR TV home">NSR<span>TV</span></a>
+  <div class="header-actions">
+    <select id="language" aria-label="Language"><option value="ku">کوردی</option><option value="fa">فارسی</option><option value="ar">العربية</option><option value="en">English</option><option value="ru">Русский</option></select>
+    <button id="favoritesToggle" class="ghost">♡ <span data-i18n="favorites">دڵخوازەکان</span></button>
+  </div>
+</header>
+<section class="hero">
+  <div class="hero-inner">
+    <span class="eyebrow"><i></i> LIVE STREAMING</span>
+    <h1>NSR <span>TV</span></h1>
+    <label class="search-wrap"><span>⌕</span><input id="search" type="search" placeholder="گەڕان بەدوای کەناڵ..."></label>
+  </div>
+</section>
+<main class="container">
+  <section class="player-card" aria-label="Live player">
+    <div class="section-heading"><div><span class="eyebrow">ئێستا پەخش دەکرێت</span><h2 id="playingName">کەناڵێک هەڵبژێرە</h2></div><span class="live-pill"><i></i> LIVE</span></div>
+    <video id="video" controls playsinline preload="none"></video>
+    <div class="player-tools"><span id="playerMessage" role="status">کەناڵێک هەڵبژێرە بۆ دەستپێکردنی پەخش.</span></div>
+  </section>
+  <section class="channels-section">
+    <div class="section-heading"><div><span class="eyebrow">NSR TV</span><h2 data-i18n="channels">کەناڵەکان</h2></div><span id="channelCount" class="muted"></span></div>
+    <div class="category-tabs" id="categoryTabs">
+      <button class="active" data-category="all" data-i18n="all">هەمووی</button>
+      <button data-category="local" data-i18n="local">ناوخۆیی</button>
+      <button data-category="kurdish" data-i18n="kurdish">کوردی</button>
+      <button data-category="news" data-i18n="news">هەواڵ</button>
+      <button data-category="sports" data-i18n="sports">وەرزشی</button>
+      <button data-category="documentary" data-i18n="documentary">دیکۆمێنتاری</button>
+    </div>
+    <div id="channelGrid" class="channel-grid"><div class="empty">بارکردن...</div></div>
+  </section>
+</main>
+<footer><strong>NSR TV</strong><span>© <span id="year"></span> NSR TV</span><small>تەنیا پەخشەکانی ڕێپێدراو بڵاو بکەرەوە.</small></footer>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+<script src="./config.js"></script>
+<script src="./app.js?v=11"></script>
+</body>
+</html>
