@@ -9,7 +9,7 @@
   "description": "NSR TV live television channels",
   "icons": [
     {
-      "src": "./nsrtv-logo.svg",
+      "src": "./nsrtv-logo.svg?v=2",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
