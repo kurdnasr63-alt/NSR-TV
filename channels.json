@@ -4,5 +4,9 @@
   {"name":"Kurdsat","logo_url":null,"stream_url":"https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8","category":"kurdish","is_active":true},
   {"name":"Kurdsat News","logo_url":null,"stream_url":"https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8","category":"kurdish","is_active":true},
   {"name":"Zagros TV","logo_url":null,"stream_url":"https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8","category":"kurdish","is_active":true},
-  {"name":"Waar TV","logo_url":null,"stream_url":"https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8","category":"kurdish","is_active":true}
+  {"name":"Waar TV","logo_url":null,"stream_url":"https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8","category":"kurdish","is_active":true},
+  {"name":"Kurdistan TV","logo_url":null,"stream_url":"https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8","category":"kurdish","is_active":true},
+  {"name":"Gali Kurdistan TV","logo_url":null,"stream_url":"https://live.host247.net/gk/gksat/playlist.m3u8","category":"kurdish","is_active":true},
+  {"name":"4Kurd","logo_url":null,"stream_url":"https://4kuhls.persiana.live/hls/stream.m3u8","category":"kurdish","is_active":true},
+  {"name":"Kurd Channel","logo_url":null,"stream_url":"https://kurdchhls.wns.live/hls/stream.m3u8","category":"kurdish","is_active":true}
 ]
