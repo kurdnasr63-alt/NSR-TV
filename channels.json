@@ -8,5 +8,9 @@
   {"name":"Kurdistan TV","logo_url":null,"stream_url":"https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8","category":"kurdish","is_active":true},
   {"name":"Gali Kurdistan TV","logo_url":null,"stream_url":"https://live.host247.net/gk/gksat/playlist.m3u8","category":"kurdish","is_active":true},
   {"name":"4Kurd","logo_url":null,"stream_url":"https://4kuhls.persiana.live/hls/stream.m3u8","category":"kurdish","is_active":true},
-  {"name":"Kurd Channel","logo_url":null,"stream_url":"https://kurdchhls.wns.live/hls/stream.m3u8","category":"kurdish","is_active":true}
+  {"name":"Kurd Channel","logo_url":null,"stream_url":"https://kurdchhls.wns.live/hls/stream.m3u8","category":"kurdish","is_active":true},
+  {"name":"Al Iraqia Sport","logo_url":null,"stream_url":"https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8","category":"sports","is_active":true},
+  {"name":"MNB Sport","logo_url":null,"stream_url":"https://live.mnb.mn/hls/mnb_sport.stream.m3u8","category":"sports","is_active":true},
+  {"name":"TJK TV","logo_url":null,"stream_url":"https://tjktv-live.tjk.org/tjktv.m3u8","category":"sports","is_active":true},
+  {"name":"TR Sport","logo_url":null,"stream_url":"https://livetr.teleromagna.it/mia/live/playlist.m3u8","category":"sports","is_active":true}
 ]
