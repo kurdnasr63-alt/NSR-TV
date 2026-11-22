@@ -1,4 +1,4 @@
-const CACHE="nsrtv-static-v16";
+const CACHE="nsrtv-static-v17";
 const ASSETS=["./","./index.html","./style.css","./media.css","./media.js","./media.json","./nsrtv-logo.svg","./config.js","./app.js","./manifest.json","./channels.json"];
 self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
 self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))));
