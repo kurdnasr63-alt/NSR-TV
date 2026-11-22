@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {"title":"His Girl Friday","year":1940,"language":"en","runtime":"91 min","description":"A classic screwball comedy.","videoUrl":"https://archive.org/download/his_girl_friday/his_girl_friday_512kb.mp4","sourceUrl":"https://archive.org/details/his_girl_friday","licenseUrl":"https://creativecommons.org/licenses/publicdomain/","posterUrl":"https://archive.org/services/img/his_girl_friday"},
+    {"title":"The Great Train Robbery","year":1903,"language":"silent","runtime":"12 min","description":"An early silent Western film.","videoUrl":"https://archive.org/download/TheGreatTrainRobbery1903_201307/The%20Great%20Train%20Robbery%20(1903).mp4","sourceUrl":"https://archive.org/details/TheGreatTrainRobbery1903_201307","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","posterUrl":"https://archive.org/services/img/TheGreatTrainRobbery1903_201307"},
+    {"title":"A Trip to the Moon","year":1902,"language":"silent","runtime":"14 min","description":"A pioneering French silent fantasy film.","videoUrl":"https://archive.org/download/le-voyage-dans-la-lune-1902-georges-melies/Le%20Voyage%20Dans%20La%20Lune%20-%20(1902)%20-%20Georges%20M%C3%A9li%C3%A8s.ia.mp4","sourceUrl":"https://archive.org/details/le-voyage-dans-la-lune-1902-georges-melies","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","posterUrl":"https://archive.org/services/img/le-voyage-dans-la-lune-1902-georges-melies"}
+  ],
+  "series": [
+    {"title":"Out of the Inkwell","year":1920,"language":"silent","sourceUrl":"https://archive.org/details/OutOfTheInkwellTheOuijaBoard","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","posterUrl":"https://archive.org/services/img/OutOfTheInkwellTheOuijaBoard","episodes":[{"title":"The Ouija Board","videoUrl":"https://archive.org/download/OutOfTheInkwellTheOuijaBoard/OutOfTheInkwell-TheOuijaBoardmaxFleischer1920_512kb.mp4","sourceUrl":"https://archive.org/details/OutOfTheInkwellTheOuijaBoard","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/"}]}
+  ]
+}

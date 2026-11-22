@@ -38,25 +38,33 @@
     </section>
     <section class="channels-section">
       <div class="section-heading"><div><span class="eyebrow">NSR TV</span><h2 data-i18n="channels">کەناڵەکان</h2></div><span id="channelCount" class="muted"></span></div>
-      <div class="category-tabs" id="categoryTabs">
-        <button class="active" data-category="all" data-i18n="all">هەمووی</button><button data-category="local" data-i18n="local">ناوخۆیی</button><button data-category="kurdish" data-i18n="kurdish">کوردی</button><button data-category="news" data-i18n="news">هەواڵ</button><button data-category="sports" data-i18n="sports">وەرزشی</button><button data-category="documentary" data-i18n="documentary">دیکۆمێنتاری</button>
-      </div>
+      <div class="category-tabs" id="categoryTabs"><button class="active" data-category="all" data-i18n="all">هەمووی</button><button data-category="local" data-i18n="local">ناوخۆیی</button><button data-category="kurdish" data-i18n="kurdish">کوردی</button><button data-category="news" data-i18n="news">هەواڵ</button><button data-category="sports" data-i18n="sports">وەرزشی</button><button data-category="documentary" data-i18n="documentary">دیکۆمێنتاری</button></div>
       <div id="channelGrid" class="channel-grid"><div class="empty">بارکردن...</div></div>
     </section>
   </div>
   <section id="moviesView" class="media-view media-library movies-library" hidden>
     <div class="media-banner"><span class="eyebrow" data-media-i18n="movieCollection">کتێبخانەی فیلم</span><h2 data-media-i18n="movies">فیلم</h2><p data-media-i18n="moviesDescription">شوێنی تایبەت بۆ فیلمەکان، بە جیاوازی لە کەناڵە ڕاستەوخۆکان.</p></div>
-    <div class="media-placeholder"><span class="media-mark" aria-hidden="true">FILM</span><h3 data-media-i18n="comingSoon">بەشی ناوەڕۆک ئامادە دەکرێت</h3><p data-media-i18n="libraryNote">تەنیا فیلم و لینکە ڕێپێدراوەکان زیاد دەکرێن.</p></div>
+    <div class="media-language-tabs" id="moviesFilters" aria-label="Filter movies by language"></div>
+    <div class="catalog-grid" id="moviesGrid" aria-live="polite"></div>
   </section>
   <section id="seriesView" class="media-view media-library series-library" hidden>
     <div class="media-banner"><span class="eyebrow" data-media-i18n="seriesCollection">کتێبخانەی زنجیرە</span><h2 data-media-i18n="series">زنجیرە</h2><p data-media-i18n="seriesDescription">بەشی زنجیرەکان بە شێوەیەکی جیاواز لە بەشی فیلم و پەخشەکان.</p></div>
-    <div class="media-placeholder"><span class="media-mark" aria-hidden="true">SERIES</span><h3 data-media-i18n="comingSoon">بەشی ناوەڕۆک ئامادە دەکرێت</h3><p data-media-i18n="libraryNote">تەنیا فیلم و لینکە ڕێپێدراوەکان زیاد دەکرێن.</p></div>
+    <div class="media-language-tabs" id="seriesFilters" aria-label="Filter series by language"></div>
+    <div class="catalog-grid" id="seriesGrid" aria-live="polite"></div>
   </section>
 </main>
+<dialog id="mediaPlayerDialog" class="media-player-dialog">
+  <div class="media-dialog-card">
+    <div class="media-dialog-heading"><h2 id="mediaPlayerTitle"></h2><button id="mediaPlayerClose" class="ghost" type="button" aria-label="Close">×</button></div>
+    <video id="mediaVideo" controls playsinline preload="metadata"></video>
+    <p id="mediaPlayerStatus" role="status"></p>
+    <div class="media-source-links"><a id="mediaSourceLink" target="_blank" rel="noopener noreferrer" data-media-i18n="mediaSource">سەرچاوە</a><a id="mediaRightsLink" target="_blank" rel="noopener noreferrer" data-media-i18n="mediaRights">زانیاری مۆڵەت</a></div>
+  </div>
+</dialog>
 <footer><strong>NSR TV</strong><span>© <span id="year"></span> NSR TV</span><small>تەنیا پەخشەکانی ڕێپێدراو بڵاو بکەرەوە.</small></footer>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
 <script src="./config.js"></script>
 <script src="./app.js?v=11"></script>
-<script src="./media.js?v=1"></script>
+<script src="./media.js?v=2"></script>
 </body>
 </html>
