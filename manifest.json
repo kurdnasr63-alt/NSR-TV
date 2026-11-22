@@ -7,5 +7,12 @@
   "background_color": "#090e1b",
   "theme_color": "#090e1b",
   "description": "NSR TV live television channels",
-  "icons": []
+  "icons": [
+    {
+      "src": "./nsrtv-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
