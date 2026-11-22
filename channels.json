@@ -12,5 +12,8 @@
   {"name":"Al Iraqia Sport","logo_url":null,"stream_url":"https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8","category":"sports","is_active":true},
   {"name":"MNB Sport","logo_url":null,"stream_url":"https://live.mnb.mn/hls/mnb_sport.stream.m3u8","category":"sports","is_active":true},
   {"name":"TJK TV","logo_url":null,"stream_url":"https://tjktv-live.tjk.org/tjktv.m3u8","category":"sports","is_active":true},
-  {"name":"TR Sport","logo_url":null,"stream_url":"https://livetr.teleromagna.it/mia/live/playlist.m3u8","category":"sports","is_active":true}
+  {"name":"TR Sport","logo_url":null,"stream_url":"https://livetr.teleromagna.it/mia/live/playlist.m3u8","category":"sports","is_active":true},
+  {"name":"Al Jazeera Documentary","logo_url":null,"stream_url":"https://live-hls-web-ajd.getaj.net/AJD/index.m3u8","category":"documentary","is_active":true},
+  {"name":"CGTN Documentary","logo_url":null,"stream_url":"https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8","category":"documentary","is_active":true},
+  {"name":"RT Documentary","logo_url":null,"stream_url":"https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8","category":"documentary","is_active":true}
 ]
