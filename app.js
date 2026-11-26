@@ -1,1 +1,76 @@
 (()=>{"use strict";const $=id=>document.getElementById(id);const T={ku:{favorites:"دڵخوازەکان",channels:"کەناڵەکان",all:"هەمووی",local:"ناوخۆیی",kurdish:"کوردی",news:"هەواڵ",sports:"وەرزشی",documentary:"دیکۆمێنتاری",search:"گەڕان بەدوای کەناڵ...",empty:"هیچ کەناڵێک نەدۆزرایەوە.",error:"پەخش بەردەست نییە."},en:{favorites:"Favorites",channels:"Channels",all:"All",local:"Local",kurdish:"Kurdish",news:"News",sports:"Sports",documentary:"Documentary",search:"Search channels...",empty:"No channels found.",error:"Stream unavailable."},fa:{favorites:"علاقه‌مندی‌ها",channels:"شبکه‌ها",all:"همه",local:"محلی",kurdish:"کردی",news:"اخبار",sports:"ورزشی",documentary:"مستند",search:"جستجوی شبکه...",empty:"شبکه‌ای پیدا نشد.",error:"پخش در دسترس نیست."},ar:{favorites:"المفضلة",channels:"القنوات",all:"الكل",local:"محلية",kurdish:"كردية",news:"أخبار",sports:"رياضية",documentary:"وثائقية",search:"ابحث عن قناة...",empty:"لم يتم العثور على قنوات.",error:"البث غير متاح."},ru:{favorites:"Избранное",channels:"Каналы",all:"Все",local:"Местные",kurdish:"Курдские",news:"Новости",sports:"Спорт",documentary:"Документальные",search:"Поиск каналов...",empty:"Каналы не найдены.",error:"Трансляция недоступна."}};let lang=["ku","fa","ar","en","ru"].includes(localStorage.getItem("nsrtv-lang"))?localStorage.getItem("nsrtv-lang"):"ku",channels=[],category="all",favoritesOnly=false,hls=null;let favorites=new Set(JSON.parse(localStorage.getItem("nsrtv-favorites")||"[]"));const tr=k=>T[lang][k]||T.ku[k]||k;function applyLanguage(){document.documentElement.lang=lang;document.documentElement.dir=["ku","fa","ar"].includes(lang)?"rtl":"ltr";$("language").value=lang;$("search").placeholder=tr("search");document.querySelectorAll("[data-i18n]").forEach(e=>{if(T[lang][e.dataset.i18n])e.textContent=tr(e.dataset.i18n)});renderChannels()}function isUrl(v){try{const u=new URL(v);return u.protocol==="http:"||u.protocol==="https:"}catch{return false}}function clean(rows){const names=new Set;return(rows||[]).filter(c=>{const n=String(c.name||"").trim(),u=String(c.stream_url||"").trim();if(!n||!isUrl(u)||c.is_active===false||names.has(n.toLowerCase()))return false;names.add(n.toLowerCase());return true})}async function load(){try{const r=await fetch("./channels.json",{cache:"no-store"});if(!r.ok)throw Error();channels=clean(await r.json())}catch(e){channels=[];console.error(e)}renderChannels()}function renderChannels(){const q=$("search").value.trim().toLowerCase(),list=channels.filter(c=>(category==="all"||c.category===category)&&(!favoritesOnly||favorites.has(c.name))&&(!q||c.name.toLowerCase().includes(q)));$("channelCount").textContent=list.length;$("channelGrid").replaceChildren();if(!list.length){const e=document.createElement("div");e.className="empty";e.textContent=tr("empty");$("channelGrid").append(e);return}list.forEach(c=>{const card=document.createElement("div");card.className="channel-card";card.tabIndex=0;card.setAttribute("role","button");const fav=document.createElement("button");fav.type="button";fav.className="favorite";fav.textContent=favorites.has(c.name)?"♥":"♡";fav.addEventListener("click",e=>{e.stopPropagation();favorites.has(c.name)?favorites.delete(c.name):favorites.add(c.name);localStorage.setItem("nsrtv-favorites",JSON.stringify([...favorites]));renderChannels()});const ph=document.createElement("div");ph.className="channel-placeholder";ph.textContent=c.name.slice(0,2).toUpperCase();const name=document.createElement("span");name.className="channel-name";name.textContent=c.name;card.append(fav,ph,name);card.addEventListener("click",()=>play(c));card.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" ")play(c)});$("channelGrid").append(card)})}function play(c){if(!isUrl(c.stream_url)){$("playerMessage").textContent=tr("error");return}$("playingName").textContent=c.name;$("playerMessage").textContent="LIVE";if(hls){hls.destroy();hls=null}const v=$("video");v.removeAttribute("src");v.load();if(window.Hls&&Hls.isSupported()){hls=new Hls({enableWorker:true,autoStartLoad:true});hls.loadSource(c.stream_url);hls.attachMedia(v);hls.on(Hls.Events.ERROR,(_,d)=>{if(d.fatal)$("playerMessage").textContent=tr("error")});hls.on(Hls.Events.MANIFEST_PARSED,()=>v.play().catch(()=>{}))}else if(v.canPlayType("application/vnd.apple.mpegurl")){v.src=c.stream_url;v.play().catch(()=>{})}else $("playerMessage").textContent="HLS is not supported in this browser."}function setView(name){document.querySelectorAll(".view-tabs [data-view]").forEach(b=>{const selected=b.dataset.view===name;b.classList.toggle("active",selected);b.setAttribute("aria-selected",String(selected))});["channels","movies","series"].forEach(view=>{$(view+"View").hidden=view!==name});$("favoritesToggle").hidden=name!=="channels";$("search").closest(".search-wrap").hidden=name!=="channels"}document.querySelector(".view-tabs").addEventListener("click",e=>{const b=e.target.closest("[data-view]");if(b)setView(b.dataset.view)});$("search").addEventListener("input",renderChannels);$("language").addEventListener("change",e=>{lang=e.target.value;localStorage.setItem("nsrtv-lang",lang);applyLanguage()});$("favoritesToggle").addEventListener("click",()=>{favoritesOnly=!favoritesOnly;$("favoritesToggle").classList.toggle("active",favoritesOnly);renderChannels()});$("categoryTabs").addEventListener("click",e=>{const b=e.target.closest("[data-category]");if(!b)return;category=b.dataset.category;document.querySelectorAll("[data-category]").forEach(x=>x.classList.toggle("active",x===b));renderChannels()});$("year").textContent=new Date().getFullYear();applyLanguage();load();if("serviceWorker"in navigator&&location.protocol.startsWith("http"))navigator.serviceWorker.register("./sw.js").catch(console.warn)})();
+
+function play(c) {
+  $("playingName").textContent = c.name;
+
+  if (!c.stream_url) {
+    message("لینکی پەخشی مۆڵەتپێدراو بۆ ئەم کەناڵە دانەنراوە.");
+    return;
+  }
+
+  message(tr("loading"));
+
+  // بەشی ماوەی play ـی پێشوو
+  // لێرە بەجێی بهێڵەوە
+}
+
+async function loadChannels() {
+  let databaseChannels = [];
+
+  if (db) {
+    const { data, error } = await db
+      .from("channels")
+      .select("id,name,logo_url,stream_url,category")
+      .eq("is_active", true)
+      .order("name");
+
+    if (error) {
+      console.error(error);
+    } else {
+      databaseChannels = data || [];
+    }
+  }
+
+  let alwanChannels = [];
+
+  try {
+    const response = await fetch("./channels.json", {
+      cache: "no-store"
+    });
+
+    if (!response.ok) {
+      throw new Error("channels.json not found");
+    }
+
+    const payload = await response.json();
+
+    alwanChannels = (payload.channels || []).map(c => ({
+      id: "alwan-" + c.id,
+      name: c.name,
+      logo_url: null,
+      stream_url: c.stream_url || "",
+      category: "sports"
+    }));
+
+  } catch (error) {
+    console.error("Alwan Sports:", error);
+  }
+
+  const merged = [
+    ...databaseChannels,
+    ...alwanChannels
+  ];
+
+  const seen = new Set();
+
+  channels = merged.filter(c => {
+    const key = c.name.trim().toLowerCase();
+
+    if (seen.has(key)) return false;
+
+    seen.add(key);
+    return true;
+  });
+
+  renderChannels();
+}
