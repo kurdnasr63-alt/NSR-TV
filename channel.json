@@ -1,0 +1,5090 @@
+[
+  {
+    "id": "ec8deeb1-aca",
+    "name": "AVA TV",
+    "category": "KRD News",
+    "url": "https:\/\/ava002.xyz\/upload\/images\/1080.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQHjoEAP1GGyOn-_z3KpXocINiq6Pjo4RR3OpRoEf5G4w&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQHjoEAP1GGyOn-_z3KpXocINiq6Pjo4RR3OpRoEf5G4w&s=10"
+  },
+  {
+    "id": "b38ea3ad-839",
+    "name": "RUDAW HD",
+    "category": "KRD News",
+    "url": "https:\/\/live.rudaw.net\/hls\/rudaw-tv\/stream_720p.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "bcb5a7b1-523",
+    "name": "rudawhd",
+    "category": "KRD News",
+    "url": "http:\/\/live.rudaw.net\/hls\/rudaw-tv\/stream_1080p.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3538a4d8-7e7",
+    "name": "Rudaw",
+    "category": "KRD News",
+    "url": "https:\/\/live.rudaw.net\/hls\/rudaw-tv\/master.m3u8",
+    "logo": "https:\/\/photos.smugmug.com\/Rudaw-logo\/i-7WVWZvk\/0\/7757f044\/M\/unnamed-M.png",
+    "thumbnail": "https:\/\/photos.smugmug.com\/Rudaw-logo\/i-7WVWZvk\/0\/7757f044\/M\/unnamed-M.png"
+  },
+  {
+    "id": "47ab5d9d-c6d",
+    "name": "Channel 8",
+    "category": "KRD News",
+    "url": "https:\/\/live.channel8.com\/Channel8-Kurdish\/index.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10"
+  },
+  {
+    "id": "c4e9c045-069",
+    "name": "K24 FHD",
+    "category": "KRD News",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/K24\/HLS\/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s"
+  },
+  {
+    "id": "af87916a-fd5",
+    "name": "NRT",
+    "category": "KRD News",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/NRT_HD\/HLS\/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1785001965091\/NRT_NEWS_.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1785001965091\/NRT_NEWS_.png"
+  },
+  {
+    "id": "fb6da26b-510",
+    "name": "Kurdsat News",
+    "category": "KRD News",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/KURDSAT_NEWS\/HLS\/KURDSAT_NEWS.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl3j_g3H9TsH22SoBtZcMkRyspRxPJ6NR8hd0hJsLhlA&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl3j_g3H9TsH22SoBtZcMkRyspRxPJ6NR8hd0hJsLhlA&s=10"
+  },
+  {
+    "id": "0ccf9b6d-de9",
+    "name": "Gali Kurdistan",
+    "category": "KRD News",
+    "url": "https:\/\/live.host247.net\/gk\/gksat\/chunklist_w950982176.m3u8",
+    "logo": "https:\/\/www.gksat.tv\/images\/logo.png",
+    "thumbnail": "https:\/\/www.gksat.tv\/images\/logo.png"
+  },
+  {
+    "id": "d00ffbcb-7b3",
+    "name": "Kurdistan TV",
+    "category": "KRD News",
+    "url": "https:\/\/5a3ed7a72ed4b.streamlock.net\/live\/SMIL:myStream.smil\/chunklist_w1791118443_b1700000_sleng_t64MTA4MHA=.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQoOl3Vei2ZlXLV9wabf6D695LYqglHO0fRXXdg-m26MQ&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQoOl3Vei2ZlXLV9wabf6D695LYqglHO0fRXXdg-m26MQ&s=10"
+  },
+  {
+    "id": "81aaef3c-8ab",
+    "name": "Kirkuk TV",
+    "category": "KRD News",
+    "url": "https:\/\/live.kirkuklive.live\/hls\/stream\/index.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQg_LynayhAQ77VE4BcNJUhaScjIO5iEsC03eGlQflXUw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQg_LynayhAQ77VE4BcNJUhaScjIO5iEsC03eGlQflXUw&s=10"
+  },
+  {
+    "id": "181f9a80-cfe",
+    "name": "MMN NEWS",
+    "category": "KRD News",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdnews\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/055qJj70\/news.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/055qJj70\/news.png"
+  },
+  {
+    "id": "b163a765-80b",
+    "name": "KURDSAT",
+    "category": "Kurdish",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/KURDSAT_HD\/HLS\/KURDSAT_HD.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR-HVYkR5sv7xyjp7TdVE0e42uroV6P9pEkQcZ7x1husw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR-HVYkR5sv7xyjp7TdVE0e42uroV6P9pEkQcZ7x1husw&s=10"
+  },
+  {
+    "id": "5b37bec4-aa7",
+    "name": "SPIQURANHD ۞",
+    "category": "Quran",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-spi_quran_hd\/spi_quran_hd\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/VfgjzVjy\/QURAN.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/VfgjzVjy\/QURAN.png"
+  },
+  {
+    "id": "dc0b6a56-9be",
+    "name": "NaqshiMedia ۞",
+    "category": "Kurdish",
+    "url": "http:\/\/naqshi-media.com:1935\/live\/NaqshiMedia\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/Yp4ChZtr\/NAQS.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Yp4ChZtr\/NAQS.png"
+  },
+  {
+    "id": "70e3c901-8cb",
+    "name": "MMN QURAN",
+    "category": "Quran",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdquran\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/08wJZLfh\/quran.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/08wJZLfh\/quran.png"
+  },
+  {
+    "id": "82f97ee6-6e0",
+    "name": "KHAK TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live.kurdtips.uno\/proxy.php?url=http%3A%2F%2Fbblserver.ddns.net%3A1935%2Fstream%2Fkhakhd%2Ftracks-v1a1%2Fmono.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/44C801bx\/khak.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/44C801bx\/khak.png"
+  },
+  {
+    "id": "154b93ca-69e",
+    "name": "Animal Box",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-animalbox\/animalbox\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/PqqP92dr\/0615623a-95a4-41cb-b757-12ac88a49764.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/PqqP92dr\/0615623a-95a4-41cb-b757-12ac88a49764.png"
+  },
+  {
+    "id": "a7dcde2f-b11",
+    "name": "Avar TV",
+    "category": "Kurdish",
+    "url": "https:\/\/avr.host247.net\/live\/AvarTv\/playlist.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRdqIz4lxYcyVFVQ3_CQiQr1z_xDVZK2quQeeu2HoI0ng&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRdqIz4lxYcyVFVQ3_CQiQr1z_xDVZK2quQeeu2HoI0ng&s=10"
+  },
+  {
+    "id": "d0c21dd5-cde",
+    "name": "AMOZHGARY TV",
+    "category": "Kurdish",
+    "url": "https:\/\/app-live.org\/live\/3268334b\/index.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png"
+  },
+  {
+    "id": "5bb15b9f-126",
+    "name": "AMOZHGARY HD",
+    "category": "Kurdish",
+    "url": "https:\/\/app-live.org\/live\/a267c1b3\/index.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png"
+  },
+  {
+    "id": "4278cc4d-a79",
+    "name": "ALA HD",
+    "category": "Kurdish",
+    "url": "http:\/\/avrstream.com:1935\/live\/ala-hd\/playlist.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS61Czh_ehcr8vfcgjmtw_hSpkaj0WFRa-DmLS0RHZG4A&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS61Czh_ehcr8vfcgjmtw_hSpkaj0WFRa-DmLS0RHZG4A&s=10"
+  },
+  {
+    "id": "072d6375-dc4",
+    "name": "Baba Gur Gur TV",
+    "category": "Kurdish",
+    "url": "https:\/\/barham.short.gy\/BabaGuGurTV.m3u8",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1786208191175\/BABAGURGUR.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1786208191175\/BABAGURGUR.png"
+  },
+  {
+    "id": "ae7b8bce-0b2",
+    "name": "BASK HD",
+    "category": "Kurdish",
+    "url": "http:\/\/baskhd2.ddns.net:1935\/live\/basktv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg"
+  },
+  {
+    "id": "d1416a66-b19",
+    "name": "BASK PLUS HD",
+    "category": "Kurdish",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/baskhd\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg"
+  },
+  {
+    "id": "56d2a45d-cbd",
+    "name": "Afarin Baxcha TV",
+    "category": "Kids",
+    "url": "http:\/\/afarintv2.flashmediacast.com:1935\/afarinTV\/livestream\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/mTrjSq4N\/baxcha.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/mTrjSq4N\/baxcha.png"
+  },
+  {
+    "id": "78a58d2e-df0",
+    "name": "AFRIN TV FHD",
+    "category": "Kids",
+    "url": "http:\/\/afarintv.flashmediacast.com:1935\/afarinTV\/livestream\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/mTrjSq4N\/baxcha.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/mTrjSq4N\/baxcha.png"
+  },
+  {
+    "id": "78be4595-b82",
+    "name": "AFRIN KIDS",
+    "category": "Kids",
+    "url": "http:\/\/afarintv2.flashmediacast.com:1935\/afarinTV\/d1\/livestream\/HawezHD.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/2zyx7bRj\/AKID.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/2zyx7bRj\/AKID.png"
+  },
+  {
+    "id": "28ef42e7-9f3",
+    "name": "Afarin Kids",
+    "category": "Kids",
+    "url": "https:\/\/65f16f0fdfc51.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/2zyx7bRj\/AKID.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/2zyx7bRj\/AKID.png"
+  },
+  {
+    "id": "022f4181-c60",
+    "name": "BASK Kids HD",
+    "category": "Kids",
+    "url": "http:\/\/217.76.62.187\/hls\/kids.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg"
+  },
+  {
+    "id": "97f7d55e-b15",
+    "name": "BANGAWAZ TV",
+    "category": "Kurdish",
+    "url": "http:\/\/bangawaztv.ddns.net:40\/live\/bangawaztv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/0NBm7dtF\/23-F04193-9-E6-C-4-FC4-8882-B6-ECBFD0029-E.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/0NBm7dtF\/23-F04193-9-E6-C-4-FC4-8882-B6-ECBFD0029-E.png"
+  },
+  {
+    "id": "37022173-d92",
+    "name": "Denge Zelal TV",
+    "category": "Kurdish",
+    "url": "https:\/\/dengetv.ozelip.com:3143\/live\/dengelive.m3u8",
+    "logo": "https:\/\/r.resimlink.com\/Tvf-DB3hOso8.png",
+    "thumbnail": "https:\/\/r.resimlink.com\/Tvf-DB3hOso8.png"
+  },
+  {
+    "id": "ec86ecf3-166",
+    "name": "Eman HD",
+    "category": "Quran",
+    "url": "https:\/\/avr.host247.net\/live\/emantv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/yB4Bc8M3\/eman.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/yB4Bc8M3\/eman.png"
+  },
+  {
+    "id": "6d896af4-466",
+    "name": "ESRA TV 1 ۞",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-ESRAHD\/ESRAHD\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/6tNVZW4B\/ESRA.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/6tNVZW4B\/ESRA.jpg"
+  },
+  {
+    "id": "b1f4ebb2-793",
+    "name": "ESRA TV 2 ۞",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-esra2hd_kamalblbas\/esra2hd_kamalblbas\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/9VZb67Kp\/essra2.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/9VZb67Kp\/essra2.png"
+  },
+  {
+    "id": "0328cc57-892",
+    "name": "ESRA Quran HD ۞",
+    "category": "Quran",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-esraquran_kamalblbas\/esraquran_kamalblbas\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/HdBJLdQZ\/quranes-1.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/HdBJLdQZ\/quranes-1.png"
+  },
+  {
+    "id": "0347ccc0-6f1",
+    "name": "EURO KURD",
+    "category": "Kurdish",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/Eurokurd\/index.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/08Vjd4K2\/EKURD.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/08Vjd4K2\/EKURD.png"
+  },
+  {
+    "id": "e0897d48-655",
+    "name": "Farmoda TV",
+    "category": "Kurdish",
+    "url": "https:\/\/avr.host247.net\/live\/FarmodaTV\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/csWgxYww\/FA.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/csWgxYww\/FA.png"
+  },
+  {
+    "id": "e56940a3-55f",
+    "name": "HALABJA",
+    "category": "Kurdish",
+    "url": "http:\/\/halabjatv.ddns.net:40\/live\/halabjatv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/ChRybCtn\/halabja.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/ChRybCtn\/halabja.png"
+  },
+  {
+    "id": "79da88a3-039",
+    "name": "IMK HD",
+    "category": "Kurdish",
+    "url": "http:\/\/imkhd.ddns.net:1935\/live\/imkhd\/HawezHD.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/JRsFBRdb\/IMK.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/JRsFBRdb\/IMK.png"
+  },
+  {
+    "id": "2cbdeb75-7a4",
+    "name": "Asman TV",
+    "category": "Quran",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/54065",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "69ea4f1d-2f7",
+    "name": "IMK QURAN HD ۞",
+    "category": "Quran",
+    "url": "http:\/\/avrstream.com:1935\/live\/IMKQURANHD\/HawezHD.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/w6hM1JNc\/IMK.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/w6hM1JNc\/IMK.png"
+  },
+  {
+    "id": "d6b66d57-d0f",
+    "name": "KURDMAX",
+    "category": "Kurdish",
+    "url": "https:\/\/kogafile.com\/proxy18\/proxy.php?url=http:\/\/167.233.107.19:8080\/kurdmax-proxy\/app\/kurdmax-sorani1\/medialist_917977731947844006_hls.m3u8",
+    "logo": "https:\/\/kurdmaxcms.com\/kurdmax.png",
+    "thumbnail": "https:\/\/kurdmaxcms.com\/kurdmax.png"
+  },
+  {
+    "id": "22cb5241-23f",
+    "name": "KURDMAX SHOW",
+    "category": "Kurdish",
+    "url": "https:\/\/glwizhstb40.glwiz.com\/KurdmaxShow_HD\/KurdmaxShow_High.m3u8?user=sgls20168977&session=5a8a3a95d1fe08d7ef13f7112b3df5371f92389674ad4d2fddcd791d2688e59a983cf61adafe9b314fe51bb6042d28f7&hlsid=HTTP_ID_139163",
+    "logo": "https:\/\/i.postimg.cc\/vQTV2y7W\/show.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/vQTV2y7W\/show.png"
+  },
+  {
+    "id": "70c98eca-721",
+    "name": "Komala",
+    "category": "Kurdish",
+    "url": "https:\/\/komhls.wns.live\/hls\/stream.m3u8",
+    "logo": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/komala_v1.webp",
+    "thumbnail": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/komala_v1.webp"
+  },
+  {
+    "id": "f1310026-33f",
+    "name": "Kurd Channel",
+    "category": "Kurdish",
+    "url": "https:\/\/northtelecom.live\/KURD.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxXFOvb3c0eMF4_5EDFePU_0S8RP1CjMByw9QpfAyt_w&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxXFOvb3c0eMF4_5EDFePU_0S8RP1CjMByw9QpfAyt_w&s=10"
+  },
+  {
+    "id": "dec12adf-dbe",
+    "name": "Kurd 7",
+    "category": "Kurdish",
+    "url": "http:\/\/avrstream.com:1935\/live\/Kurd7HD\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/xy7W0wD.png",
+    "thumbnail": "https:\/\/i.imgur.com\/xy7W0wD.png"
+  },
+  {
+    "id": "d54f6ab4-ac2",
+    "name": "MMN SHOW",
+    "category": "Kurdish",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhddshow\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/k9dpmV2J\/MMNSHOW.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/k9dpmV2J\/MMNSHOW.png"
+  },
+  {
+    "id": "8de08b17-374",
+    "name": "MMN MOVIES",
+    "category": "Kurdish",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdmovies\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/7x19m9wp\/MMNM.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/7x19m9wp\/MMNM.png"
+  },
+  {
+    "id": "68b140c5-11b",
+    "name": "MMN CLIP",
+    "category": "Kurdish",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhddocumentary\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/by0Sfk4T\/clip.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/by0Sfk4T\/clip.png"
+  },
+  {
+    "id": "e7ae2c1f-9fa",
+    "name": "MMN ACTION",
+    "category": "Kurdish",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdaction\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/1myj1tH7\/MMNACT.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/1myj1tH7\/MMNACT.png"
+  },
+  {
+    "id": "00d8f576-b96",
+    "name": "Mihrab TV",
+    "category": "Kurdish",
+    "url": "http:\/\/bblserver.ddns.net:1935\/live\/mihrabfm\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/y1r0XkCp\/minara.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/y1r0XkCp\/minara.png"
+  },
+  {
+    "id": "e0a1ea46-47c",
+    "name": "Mix TV",
+    "category": "Kurdish",
+    "url": "http:\/\/avrstream.com:1935\/live\/Mix-kurdy\/playlist.m3u8?fbclid=IwY2xjawJqPHxleHRuA2FlbQIxMQABHnMOKA67ZkZIJS5ctKSN2-BD8wmcqKIGtVwZIOMvIVLCflJYceBiqt8_myYt_aem_RSxVnDSyf3hVI9TpHIqH9Q",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTDjDq-KWD1EoZYkppHRU77oNNO_20c_51M3ubfrR4rhN4o49eUiHer0oII&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTDjDq-KWD1EoZYkppHRU77oNNO_20c_51M3ubfrR4rhN4o49eUiHer0oII&s=10"
+  },
+  {
+    "id": "2b82fe4d-8ca",
+    "name": "Qalam Ayni",
+    "category": "Kurdish",
+    "url": "http:\/\/109.71.252.138\/Qalamtv\/video.m3u8?token=yusfstaore@asdasdfadaaafffs",
+    "logo": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png"
+  },
+  {
+    "id": "9643e2e7-e8a",
+    "name": "Qalam HD",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/301674",
+    "logo": "https:\/\/i.postimg.cc\/ZTJ7px4k\/qalamain.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/ZTJ7px4k\/qalamain.png"
+  },
+  {
+    "id": "c67bd1ff-dff",
+    "name": "Parwarday Slemany",
+    "category": "Kurdish",
+    "url": "https:\/\/parwarda.unitedmixmedia.tv\/Parwarda\/tracks-v2a1\/mono.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSUmScJbd_cYjJsOj3yUts3j-syG4A3V4061FDlh6s_ag&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSUmScJbd_cYjJsOj3yUts3j-syG4A3V4061FDlh6s_ag&s=10"
+  },
+  {
+    "id": "23fb9ada-f84",
+    "name": "Parwarday Hawler",
+    "category": "Kurdish",
+    "url": "https:\/\/parwarda.unitedmixmedia.tv\/Parwardayi_Hawler\/tracks-v2a1\/mono.m3u8",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1783896280603\/PARWARDAY_HAWLER.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1783896280603\/PARWARDAY_HAWLER.png"
+  },
+  {
+    "id": "bf56e988-dc8",
+    "name": "Parwarday Dhok",
+    "category": "Kurdish",
+    "url": "https:\/\/parwarda.unitedmixmedia.tv\/Parwardayi_Duhok\/tracks-v2a1\/mono.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSUmScJbd_cYjJsOj3yUts3j-syG4A3V4061FDlh6s_ag&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSUmScJbd_cYjJsOj3yUts3j-syG4A3V4061FDlh6s_ag&s=10"
+  },
+  {
+    "id": "70bb2437-c97",
+    "name": "Rawshan hd ۞",
+    "category": "Kurdish",
+    "url": "http:\/\/rawshan.ddns.net:1935\/live\/rawshantv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/pTFSvz3m\/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/pTFSvz3m\/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png"
+  },
+  {
+    "id": "dcb9b613-b39",
+    "name": "Soran Entertainment",
+    "category": "Kurdish",
+    "url": "http:\/\/avrstream.com:1935\/live\/SoranEntertainment\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/Y9Tw96J5\/Pics-Art-25-08-01-16-59-38-543.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Y9Tw96J5\/Pics-Art-25-08-01-16-59-38-543.png"
+  },
+  {
+    "id": "18fc105d-b25",
+    "name": "SOZ QURAN 1",
+    "category": "Quran",
+    "url": "http:\/\/live20.bozztv.com\/giatv\/giatv-sozquran\/sozquran\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png"
+  },
+  {
+    "id": "fe033399-079",
+    "name": "SADA",
+    "category": "Kurdish",
+    "url": "http:\/\/sada-hd.ddns.net:40\/live\/sadatv\/HawezHD.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/Mxs6dwKG\/SADA.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Mxs6dwKG\/SADA.png"
+  },
+  {
+    "id": "9961f779-4ce",
+    "name": "Sterk TV",
+    "category": "Kurdish",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/STERK_TV\/HLS\/STERK_TV.m3u8",
+    "logo": "https:\/\/i.imgur.com\/bIheNAI.png",
+    "thumbnail": "https:\/\/i.imgur.com\/bIheNAI.png"
+  },
+  {
+    "id": "567e6f4e-82c",
+    "name": "Sümbül Tv",
+    "category": "Kurdish",
+    "url": "https:\/\/tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev\/sumbultv.m3u8",
+    "logo": "https:\/\/r.resimlink.com\/zBxnRsQrC0.png",
+    "thumbnail": "https:\/\/r.resimlink.com\/zBxnRsQrC0.png"
+  },
+  {
+    "id": "f6941810-a6e",
+    "name": "SRUSHT TV",
+    "category": "Kurdish",
+    "url": "http:\/\/109.71.252.138\/Sroshttv\/video.m3u8?token=yusfstaore@asdasdfadaaafffs",
+    "logo": "https:\/\/i.postimg.cc\/hgh3tf3r\/SRUSHT.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/hgh3tf3r\/SRUSHT.png"
+  },
+  {
+    "id": "0b49df5f-e0b",
+    "name": "Shams TV",
+    "category": "KRD News",
+    "url": "https:\/\/stream.shams.tv\/hls\/0\/stream.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQRQxRTXwX0JK_0OCgeHqtm7X3c9BWJ_snWzkQN5npXog&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQRQxRTXwX0JK_0OCgeHqtm7X3c9BWJ_snWzkQN5npXog&s=10"
+  },
+  {
+    "id": "6b1b911e-d68",
+    "name": "WAAR TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live.kwikmotion.com\/waarmedialive\/waarmedia.smil\/waarmediapublish\/waarmedia_source\/chunks.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSz-_1CZfSn2DQlFDm7dUuTdGPYtlIMFNgaLbvbk_0xAA&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSz-_1CZfSn2DQlFDm7dUuTdGPYtlIMFNgaLbvbk_0xAA&s=10"
+  },
+  {
+    "id": "0b014152-d81",
+    "name": "Welat TV",
+    "category": "Kurdish",
+    "url": "https:\/\/stream.badinan.xyz\/welat\/tv\/chunklist_w676236754.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTG16qAp5EpowBJTeXmv6gizv2KtJmzxY0zJqNhiWTMvw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTG16qAp5EpowBJTeXmv6gizv2KtJmzxY0zJqNhiWTMvw&s=10"
+  },
+  {
+    "id": "56304456-378",
+    "name": "ZAGROS TV",
+    "category": "KRD News",
+    "url": "https:\/\/5a3ed7a72ed4b.streamlock.net\/zagrostv\/SMIL:myStream.smil\/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRrJo07oIYLJ0sG1hPkt9gU-ccxbrH_xbXKUlQvzmOMcg&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRrJo07oIYLJ0sG1hPkt9gU-ccxbrH_xbXKUlQvzmOMcg&s=10"
+  },
+  {
+    "id": "4e2119f2-9ad",
+    "name": "Zaytoun tv",
+    "category": "Kurdish",
+    "url": "https:\/\/barham.short.gy\/VPTcoB.m3u8",
+    "logo": "https:\/\/drive.google.com\/file\/d\/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa\/view?usp=drive_link",
+    "thumbnail": "https:\/\/drive.google.com\/file\/d\/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa\/view?usp=drive_link"
+  },
+  {
+    "id": "ddbf5c72-687",
+    "name": "NRT 2",
+    "category": "Kurdish",
+    "url": "https:\/\/ca-rt.onetv.app\/NRT2\/index-0.m3u8?token=onetv202",
+    "logo": "https:\/\/i.postimg.cc\/JRwv9XjG\/nrt2-2.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/JRwv9XjG\/nrt2-2.png"
+  },
+  {
+    "id": "8cfe2c02-ff1",
+    "name": "NRT 4",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-nrt4stream\/nrt4stream\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/594N5G2W\/NRT4.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/594N5G2W\/NRT4.png"
+  },
+  {
+    "id": "910701d6-448",
+    "name": "4 Kurd TV",
+    "category": "Kurdish",
+    "url": "https:\/\/4kuhls.persiana.live\/hls\/stream.m3u8",
+    "logo": "https:\/\/karwan.tv\/wp-content\/uploads\/4-kurd-tv-528x297-1.webp",
+    "thumbnail": "https:\/\/karwan.tv\/wp-content\/uploads\/4-kurd-tv-528x297-1.webp"
+  },
+  {
+    "id": "472b67a7-1fa",
+    "name": "KIDCO",
+    "category": "Kids",
+    "url": "http:\/\/avrstream.com:1935\/live\/kidcohd\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/37q1knCP\/KIDCO.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/37q1knCP\/KIDCO.png"
+  },
+  {
+    "id": "89de92f6-9dd",
+    "name": "MMN KIDS",
+    "category": "Kids",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdkids\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/GdS0dL0X\/mmnkid.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/GdS0dL0X\/mmnkid.png"
+  },
+  {
+    "id": "7c6358c4-fe5",
+    "name": "Spi Kids",
+    "category": "Kids",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-spikids4k2025\/spikids4k2025\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/nFJkFmgm\/KIDS.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/nFJkFmgm\/KIDS.png"
+  },
+  {
+    "id": "cdb536a2-5f0",
+    "name": "Zarok TV",
+    "category": "Kids",
+    "url": "https:\/\/zindisorani.zaroktv.com.tr\/hls\/0\/stream.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQXb1fuStDyWH8J-B7mRfkvTxcgSlw-ddeZuBNqseQLiw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQXb1fuStDyWH8J-B7mRfkvTxcgSlw-ddeZuBNqseQLiw&s=10"
+  },
+  {
+    "id": "0211d083-d0c",
+    "name": "Zarok TVK",
+    "category": "Kids",
+    "url": "https:\/\/zindikurmanci.zaroktv.com.tr\/hls\/0\/stream.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/J8x0qQhq\/ZARO.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/J8x0qQhq\/ZARO.png"
+  },
+  {
+    "id": "07aa416d-3a3",
+    "name": "MMN SPORT",
+    "category": "KRD Sport",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdsport\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/8NG9hZMg\/MMNSPORT.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/8NG9hZMg\/MMNSPORT.png"
+  },
+  {
+    "id": "f2df9a48-4b6",
+    "name": "Tom And Jerry",
+    "category": "Kids",
+    "url": "https:\/\/live20.bozztv.com\/giatvplayout7\/giatv-208314\/tracks-v1a1\/mono.ts.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "52c07bc0-70f",
+    "name": "┃UK┃ DISCOVERY CHANNEL",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170666&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "724e5486-366",
+    "name": "┃UK┃ DISCOVERY HISTORY",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170667&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c7f5f942-44b",
+    "name": "┃UK┃ DISCOVERY SCIENCE",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170668&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d5bae64a-b61",
+    "name": "┃UK┃ DISCOVERY TURBO",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170669&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c8b6e186-6d5",
+    "name": "┃UK┃ INVESTIGATION DISCOVERY",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170670&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "89b17883-517",
+    "name": "┃UK┃ ANIMAL PLANET",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170671&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7afa8462-968",
+    "name": "┃UK┃ DMAX",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170672&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3ce401f8-30f",
+    "name": "┃UK┃ FOOD NETWORK",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170673&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "e5b99df1-d04",
+    "name": "┃UK┃ HGTV",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170674&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "22a212bb-433",
+    "name": "┃UK┃ QUEST",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170676&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c0c6a6af-4b4",
+    "name": "┃UK┃ QUEST RED",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170677&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7d9d63b7-ece",
+    "name": "┃UK┃ REALLY",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170678&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "37c6ebdf-39f",
+    "name": "┃UK┃ TLC",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1170675&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c7af01cd-5b9",
+    "name": "┃UK┃ SKY DOCUMENTARIES HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172134&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ed5363c0-000",
+    "name": "┃UK┃ SKY NATURE HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172137&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5599b916-edc",
+    "name": "┃UK┃ SKY HISTORY HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172135&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d2bbff06-ad3",
+    "name": "┃UK┃ SKY HISTORY 2 HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172136&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0de8d528-547",
+    "name": "┃UK┃ SKY CRIME HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172138&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4a7d2783-980",
+    "name": "┃UK┃ DISCOVERY HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172110&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0bdc717f-1e2",
+    "name": "┃UK┃ DISCOVERY +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172111&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7b4cdebd-8c1",
+    "name": "┃UK┃ DISCOVERY SCIENCE +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172115&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "465e60e1-af4",
+    "name": "┃UK┃ DISCOVERY HISTORY +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172113&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "69691ccf-ee2",
+    "name": "┃UK┃ DISCOVERY TURBO +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172117&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "04f558ba-331",
+    "name": "┃UK┃ CRIME+ INVESTIGATION HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172119&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "81d1295c-30b",
+    "name": "┃UK┃ NAT GEO HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172120&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2ed25db5-1f9",
+    "name": "┃UK┃ NAT GEO WILD HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172121&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8e1222a3-5cd",
+    "name": "┃UK┃ ANIMAL PLANET HD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172125&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7ea6c64c-bdf",
+    "name": "┃UK┃ ANIMAL PLANET +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172126&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "a2082b8a-000",
+    "name": "┃UK┃ LOVE NATURE",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172122&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "a1daf91d-cb5",
+    "name": "┃UK┃ TLC +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172124&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5c0cfa74-9c0",
+    "name": "┃UK┃ HGTV +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172131&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7ddb2566-9c7",
+    "name": "┃UK┃ TRAVEL CHANNEL",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172127&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "76afb787-40d",
+    "name": "┃UK┃ TRAVEL XP",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172128&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "224b1de2-b0d",
+    "name": "┃UK┃ FOOD NETWORK +1",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172133&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "06621234-b48",
+    "name": "┃UK┃ BBC EARTH",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172129&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ad96f1bf-327",
+    "name": "☰☰☰☰ ┃UK┃ DOCUMENTARY | LIFESTYLE FHD ☰☰☰☰",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172139&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "bafe8dad-927",
+    "name": "┃UK┃ SKY DOCUMENTARIES FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172145&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2ff83b33-49d",
+    "name": "┃UK┃ SKY NATURE FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172147&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d39e8722-a0a",
+    "name": "┃UK┃ SKY HISTORY FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172146&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3cca4a67-788",
+    "name": "┃UK┃ DISCOVERY FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172140&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2d7d106e-02a",
+    "name": "┃UK┃ SKY CRIME FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172148&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "74f3edb3-35b",
+    "name": "┃UK┃ NAT GEO FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172141&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "677b0f06-6bf",
+    "name": "┃UK┃ NAT GEO WILD FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172142&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "10730743-7cb",
+    "name": "┃UK┃ LOVE NATURE FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172143&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "a96db868-130",
+    "name": "┃UK┃ TLC FHD",
+    "category": "DOCUMENTARY",
+    "url": "http:\/\/line.tvdsz.cc:80\/play\/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1172144&extension=ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "23b6144a-f32",
+    "name": "Payam TV",
+    "category": "KRD News",
+    "url": "https:\/\/media2.streambrothers.com:1936\/8218\/8218\/chunklist_w1556137030.m3u8",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2020\/06\/payam-tv-e1591222452158-800x800.jpg",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2020\/06\/payam-tv-e1591222452158-800x800.jpg"
+  },
+  {
+    "id": "790002a1-61e",
+    "name": "Kurd",
+    "category": "Kurdish",
+    "url": "https:\/\/kurdchhls.wns.live\/hls\/stream.m3u8",
+    "logo": "https:\/\/kurdch.tv\/wp-content\/uploads\/2020\/06\/Logoi-TV-XXXlarg-Recovered-e1591913845507.png",
+    "thumbnail": "https:\/\/kurdch.tv\/wp-content\/uploads\/2020\/06\/Logoi-TV-XXXlarg-Recovered-e1591913845507.png"
+  },
+  {
+    "id": "3db4ebf3-7e3",
+    "name": "BANGAWAZ TV",
+    "category": "Kurdish",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/bangawaztv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/0NBm7dtF\/23-F04193-9-E6-C-4-FC4-8882-B6-ECBFD0029-E.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/0NBm7dtF\/23-F04193-9-E6-C-4-FC4-8882-B6-ECBFD0029-E.png"
+  },
+  {
+    "id": "ec898b93-a80",
+    "name": "SHAR |ᴴᴰ",
+    "category": "Kurdish",
+    "url": "http:\/\/avrstream.com:1935\/live\/SHARTV\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/t4sZNVyj\/Shar-tv-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/t4sZNVyj\/Shar-tv-200.jpg"
+  },
+  {
+    "id": "706122b5-298",
+    "name": "QURAN |ᴴᴰ",
+    "category": "Kurdish",
+    "url": "http:\/\/tv.ezanvaktipro.com\/hls\/quran.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "67d0abe1-e3e",
+    "name": "MAKKA |ᴴᴰ",
+    "category": "Kurdish",
+    "url": "https:\/\/media2.streambrothers.com:1936\/8122\/8122\/playlist.m3u8",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/quan-karim.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/quan-karim.png"
+  },
+  {
+    "id": "9a52e3dc-7f2",
+    "name": "SADA",
+    "category": "Kurdish",
+    "url": "http:\/\/sada-hd.ddns.net:40\/live\/sadatv\/index.m3u8?checkedby:kurdtv1",
+    "logo": "https:\/\/i.postimg.cc\/Mxs6dwKG\/SADA.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Mxs6dwKG\/SADA.png"
+  },
+  {
+    "id": "ef71b421-8aa",
+    "name": "Derin |ᵁᴴᴰ",
+    "category": "Kurdish",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/Derin\/index.m3u8?checkedby:kurdtv1",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5f2677ae-06a",
+    "name": "MMN DREMA |ᵁᴴᴰ",
+    "category": "Kurdish",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhddrama\/playlist.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "af8b53d5-f46",
+    "name": "KURDISTAN TV |ᵁᴴᴰ",
+    "category": "Kurdish",
+    "url": "https:\/\/5a3ed7a72ed4b.streamlock.net\/live\/SMIL:myStream.smil\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/mjQptpc.png",
+    "thumbnail": "https:\/\/i.imgur.com\/mjQptpc.png"
+  },
+  {
+    "id": "2f7f1ae6-05c",
+    "name": "Al Jazeera |ᴴᴰ",
+    "category": "KRD News",
+    "url": "https:\/\/live-hls-web-aja.getaj.net\/AJA\/index.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10"
+  },
+  {
+    "id": "71189958-35f",
+    "name": "Al Jazeera Documentary |ᴴᴰ",
+    "category": "KRD News",
+    "url": "https:\/\/live-hls-web-ajd-ll-bp.thehlive.com\/AJD\/01.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10"
+  },
+  {
+    "id": "3571b508-2ce",
+    "name": "WILD EARTH |ᴴᴰ",
+    "category": "Kurdish",
+    "url": "https:\/\/wildearth-plex.amagi.tv\/masterR1080p.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d32c8465-9d9",
+    "name": "Eleven sport 1 |ᴴᴰ",
+    "category": "Kurdish",
+    "url": "http:\/\/cd7n120x.socminlt.com\/iptv\/YDFRWUQHUKMN2V\/2518\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d4004800-ecc",
+    "name": "Dunya TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-DniaTV\/DniaTV\/chunks.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5510d2d7-150",
+    "name": "IRAQIA KURDISH TV",
+    "category": "Kurdish",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-kurdish.m3u8",
+    "logo": "https:\/\/gateway.esite-lab.com\/file-storage\/api\/v1\/public\/uploads\/2025\/3\/8\/7a8a2548d8e5850e87066d2e573796189.png",
+    "thumbnail": "https:\/\/gateway.esite-lab.com\/file-storage\/api\/v1\/public\/uploads\/2025\/3\/8\/7a8a2548d8e5850e87066d2e573796189.png"
+  },
+  {
+    "id": "72c13828-1e6",
+    "name": "Nature Space",
+    "category": "Kurdish",
+    "url": "https:\/\/lotus.stingray.com\/manifest\/naturescape-a003-montreal\/samsungtvplus\/f7ed86a4-b8ac-38e0-a745-710077a95be6\/5711200\/manifest.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "faf6a4cc-ef4",
+    "name": "Love Nature",
+    "category": "Kurdish",
+    "url": "https:\/\/bamus-lovenature-lg.amagi.tv\/1080p-cc\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "e57906c9-2e8",
+    "name": "NAT Geography",
+    "category": "Kurdish",
+    "url": "https:\/\/stream.veo.buzz:6050\/enter\/ch20\/ch20_720.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "da4e2be5-544",
+    "name": "Iraqya Sports",
+    "category": "KRD Sport",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-sports-1.m3u8",
+    "logo": "https:\/\/i.imgur.com\/DrrlxTO.png",
+    "thumbnail": "https:\/\/i.imgur.com\/DrrlxTO.png"
+  },
+  {
+    "id": "5d504d51-931",
+    "name": "Itaqya Siryani",
+    "category": "Kurdish",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-syriac.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "713e95fb-f0a",
+    "name": "ZNAR HD",
+    "category": "Kurdish",
+    "url": "https:\/\/183.bozztv.com\/giatv\/giatv-znar\/znar\/chunks.m3u8",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1785003369807\/znartv.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1785003369807\/znartv.png"
+  },
+  {
+    "id": "978e8795-b21",
+    "name": "Roya Kitchen",
+    "category": "Kurdish",
+    "url": "https:\/\/playlist.fasttvcdn.com\/pl\/toa2uuhhygheuly7xtuqrg\/roya-kitchen\/playlist\/3.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c4fbd360-22b",
+    "name": "NRT SPORTS",
+    "category": "KRD Sport",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/306786",
+    "logo": "https:\/\/safiafamily.com\/uploads\/family\/kurdish_sport\/NRT_SPORT.png",
+    "thumbnail": "https:\/\/safiafamily.com\/uploads\/family\/kurdish_sport\/NRT_SPORT.png"
+  },
+  {
+    "id": "5bef14ed-0a1",
+    "name": "GK Plus",
+    "category": "Kurdish",
+    "url": "https:\/\/live.host247.net\/gk\/gkplus\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/kgVxwSNk\/WORLD-TV-PLUS-GK-PLUS.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/kgVxwSNk\/WORLD-TV-PLUS-GK-PLUS.jpg"
+  },
+  {
+    "id": "0b8fe0a6-b32",
+    "name": "AVA Sport HD",
+    "category": "KRD Sport",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/306785",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10"
+  },
+  {
+    "id": "60b31d86-2f7",
+    "name": "Zaytoun sport tv",
+    "category": "KRD Sport",
+    "url": "https:\/\/barham.short.gy\/zvgsport.m3u8",
+    "logo": "https:\/\/drive.google.com\/file\/d\/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa\/view?usp=drive_link",
+    "thumbnail": "https:\/\/drive.google.com\/file\/d\/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa\/view?usp=drive_link"
+  },
+  {
+    "id": "22601ec2-c6a",
+    "name": "MBC",
+    "category": "Kurdish",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-1\/15cf99af5de54063fdabfefe66adc075\/index.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc1.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc1.jpg?v=7"
+  },
+  {
+    "id": "982debd2-163",
+    "name": "MBC 3",
+    "category": "Kurdish",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-3-usa\/5d58265a862a476dc7f97694addb5ded\/index.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc3.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc3.jpg?v=7"
+  },
+  {
+    "id": "b26aebe0-ae6",
+    "name": "MBC Bollywood",
+    "category": "Kurdish",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-bollywood\/546eb40d7dcf9a209255dd2496903764\/index.m3u8",
+    "logo": "https:\/\/pbs.twimg.com\/profile_images\/378800000502363621\/fdd8dd8a31bf82c1dc16f2c927f88ac9.jpeg",
+    "thumbnail": "https:\/\/pbs.twimg.com\/profile_images\/378800000502363621\/fdd8dd8a31bf82c1dc16f2c927f88ac9.jpeg"
+  },
+  {
+    "id": "6b270db0-f09",
+    "name": "Al Jazeera Mubasher",
+    "category": "KRD News",
+    "url": "https:\/\/live-hls-web-ajm-bp.thehlive.com\/AJM\/01.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10"
+  },
+  {
+    "id": "b3629c46-ac8",
+    "name": "Qatar TV",
+    "category": "Kurdish",
+    "url": "https:\/\/qatartv.akamaized.net\/hls\/live\/20000609\/qtv1\/master.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/qatartv.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/qatartv.jpg?v=7"
+  },
+  {
+    "id": "9e7a96f7-0cd",
+    "name": "Bahrain TV",
+    "category": "Kurdish",
+    "url": "https:\/\/5c7b683162943.streamlock.net\/live\/ngrp:bahraintvmain_all\/playlist.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/bahraintv.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/bahraintv.jpg?v=7"
+  },
+  {
+    "id": "65f7cb76-488",
+    "name": "Syria TV",
+    "category": "Kurdish",
+    "url": "https:\/\/svs.itworkscdn.net\/syriatvlive\/syriatv.smil\/playlist.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/syria_tv.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/syria_tv.jpg?v=7"
+  },
+  {
+    "id": "b5399cee-46b",
+    "name": "Al Sharqiya",
+    "category": "Kurdish",
+    "url": "https:\/\/5d94523502c2d.streamlock.net\/home\/mystream\/playlist.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/alsharqiya.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/alsharqiya.jpg?v=7"
+  },
+  {
+    "id": "5c020ee5-a27",
+    "name": "Al Sharqiya News",
+    "category": "Kurdish",
+    "url": "https:\/\/5d94523502c2d.streamlock.net\/alsharqiyalive\/mystream\/playlist.m3u8",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/charkiyanews.png",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/charkiyanews.png"
+  },
+  {
+    "id": "0f40636c-162",
+    "name": "Binar TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-Shawkat\/Biner_HD\/chunks.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d90c2866-a60",
+    "name": "infinity TV",
+    "category": "Kurdish",
+    "url": "https:\/\/cdn.karwan.tv\/infinity-tv\/tracks-v1a1\/mono.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "85712b00-cd0",
+    "name": "Garyan TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-halabja88garyan\/halabja88garyan\/chunks.m3u8",
+    "logo": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/garyan_media_v1.webp",
+    "thumbnail": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/garyan_media_v1.webp"
+  },
+  {
+    "id": "cb979455-43b",
+    "name": "Soz Movie",
+    "category": "Kurdish",
+    "url": "http:\/\/live20.bozztv.com\/giatv\/giatv-sozetv\/sozetv\/chunks.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png"
+  },
+  {
+    "id": "98d552bd-a72",
+    "name": "TRT Kurdi",
+    "category": "Kurdish",
+    "url": "https:\/\/tv-trtkurdi.medya.trt.com.tr\/master_720.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQsua7fLdBOXvDXGnd54GxPAtYwniY04wQ9pPh7-zCFQQ&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQsua7fLdBOXvDXGnd54GxPAtYwniY04wQ9pPh7-zCFQQ&s=10"
+  },
+  {
+    "id": "82ba1ba4-939",
+    "name": "Reng TV",
+    "category": "Kurdish",
+    "url": "http:\/\/clicktv1.live:2082\/live\/mohammamohammad\/112233445566\/180127.m3u8",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/reng-family.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/reng-family.png"
+  },
+  {
+    "id": "fc4c2f21-b8b",
+    "name": "Aro Family",
+    "category": "Kurdish",
+    "url": "http:\/\/195.160.222.157:8080\/live\/jbkQG969mwp1gA\/RsxW4Azzjg3qk0\/9805.ts?token=UUHyz.fUafbH.X.ydzzcbb.ydzdXycXfH.X.y.IQ.ts.be314212800c7e51421bd02df67af031d25a1ba0c1111cf85f0acecf6ea295fc...YW55dHZwcm8uY2M6MjA4Nw==",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2e3b0cb4-21d",
+    "name": "Esta TV",
+    "category": "Kurdish",
+    "url": "http:\/\/195.160.222.157:8080\/live\/jbkQG969mwp1gA\/RsxW4Azzjg3qk0\/45478.ts?token=UUHyz.yaaaXbH.X.yHXHcHU.ydzdXycaUH.X.y.IQ.ts.a3764da6bab2d2dc4b28cf7472bfb075a13ab0b4038d324dcecd9cae363cbc75...YW55dHZwcm8uY2M6MjA4Nw==",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3072c173-2f5",
+    "name": "Nishtiman TV",
+    "category": "Kurdish",
+    "url": "http:\/\/clicktv1.live:2082\/live\/mohammamohammad\/112233445566\/180133.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3a799d8b-d61",
+    "name": "Azadi TV",
+    "category": "Kurdish",
+    "url": "http:\/\/195.160.222.157:8080\/live\/jbkQG969mwp1gA\/RsxW4Azzjg3qk0\/32781.ts?token=UUHyz.aHHyzdX.X.adUXbHy.ydzdXycdaH.X.y.IQ.ts.4b61abbe7f136c0445e0ca8c8b95463524afa6a4fae744d43d04d422906fa41b...YW55dHZwcm8uY2M6MjA4Nw==",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "6baa37e6-a30",
+    "name": "Newline 1",
+    "category": "Kurdish",
+    "url": "http:\/\/181.233.127.239:2086\/live\/25757863262751\/27734699055639\/1537077.ts?token=byUXaf.ybaXcfz.y.ybaXUzc.ydzdXycHby.X.y.IQ.ts.a2d2b650ccbb37f1312d305774fb9f44859bf49d3f6371765251855c09be1338...c3RvcmVsaW5rLnBybw==",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/newlin1.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/newlin1.png"
+  },
+  {
+    "id": "220b0bc5-7ad",
+    "name": "NewLine 2",
+    "category": "Kurdish",
+    "url": "http:\/\/181.233.127.239:2086\/live\/25757863262751\/27734699055639\/1537078.ts?token=byUXaf.ybdUUUX.y.ycUzby.ydzdXyczUy.X.y.IQ.ts.0e416863a5a30a28aec465e10ff8dc0155b7fdcba65b8cf7475584a5b2608bb1...c3RvcmVsaW5rLnBybw==",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/new2-1.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/new2-1.png"
+  },
+  {
+    "id": "e08a181b-db5",
+    "name": "Zed TV",
+    "category": "Kurdish",
+    "url": "http:\/\/clicktv1.live:2082\/live\/mohammamohammad\/112233445566\/180231.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/gzsJ584W\/zed.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/gzsJ584W\/zed.png"
+  },
+  {
+    "id": "b08c44eb-315",
+    "name": "Zed Plus",
+    "category": "Kurdish",
+    "url": "http:\/\/195.160.223.69:8080\/live\/jbkQG969mwp1gA\/RsxW4Azzjg3qk0\/1433.ts?token=UUHyz.azyzcyf.X.fbyHUzU.ydzdXybaUb.X.y.IQ.ts.4d63747017d5164fe75a4e88b8f86a716f54784d3f1f8886e3bfa30ef5b399d5...YW55dHZwcm8uY2M6MjA4Nw==",
+    "logo": "https:\/\/i.postimg.cc\/sfr6CZwy\/zed.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/sfr6CZwy\/zed.png"
+  },
+  {
+    "id": "98253462-885",
+    "name": "BARIN MOVIES TV",
+    "category": "Kurdish",
+    "url": "https:\/\/cdn.karwan.tv\/barin-movies\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/gzZc6gR6\/Barinm.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/gzZc6gR6\/Barinm.png"
+  },
+  {
+    "id": "c97aca79-a03",
+    "name": "BARIN Family TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live.kurdtips.uno\/proxy.php?url=http%3A%2F%2Fbaskhd.ddns.net%3A40%2Flive%2FBarinfamilyHD%2Fmono.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/byWG7G01\/BARINF.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/byWG7G01\/BARINF.png"
+  },
+  {
+    "id": "bd6aa822-dcc",
+    "name": "BARIN QURAN TV",
+    "category": "Kurdish",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/QURANHDTV\/HawezHD.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/byWG7G01\/BARINF.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/byWG7G01\/BARINF.png"
+  },
+  {
+    "id": "c319e037-7ea",
+    "name": "BNAR TV",
+    "category": "Kurdish",
+    "url": "https:\/\/cdn.karwan.tv\/bnar-family\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/byWG7G01\/BARINF.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/byWG7G01\/BARINF.png"
+  },
+  {
+    "id": "411ba5c2-d89",
+    "name": "BNAR Movies TV",
+    "category": "Kurdish",
+    "url": "https:\/\/cdn.karwan.tv\/bnar-movies\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/1yGh2Bc1\/bnarmov.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/1yGh2Bc1\/bnarmov.png"
+  },
+  {
+    "id": "fe9616b1-8ab",
+    "name": "Zhin Filme",
+    "category": "Kurdish",
+    "url": "https:\/\/183.bozztv.com\/giatv\/giatv-zhintv\/zhintv\/chunks.m3u8",
+    "logo": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/zhin_film_v1.webp",
+    "thumbnail": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/zhin_film_v1.webp"
+  },
+  {
+    "id": "7b7d5084-177",
+    "name": "Bnar Action",
+    "category": "Kurdish",
+    "url": "https:\/\/cdn.karwan.tv\/bnar-action\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/bnar_action_v1.webp",
+    "thumbnail": "https:\/\/rashaba.com\/assets\/images\/ch_logo\/bnar_action_v1.webp"
+  },
+  {
+    "id": "381d4c62-861",
+    "name": "Bafrin TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live3.karwan.tv:444\/befrin-tv\/tracks-v1a1\/mono.m3u8?token=b3ae9d2f1446bb1cda25febd59d1cbe19d7a498e-9b0086d0263da143595f5eee2ee3ad28-1781562073-1781551273",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ee00d5f7-b7e",
+    "name": "Gewher",
+    "category": "Kurdish",
+    "url": "https:\/\/iptv-link.short.gy\/Gewher_Sport.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "1c0d9ff4-7b4",
+    "name": "Red TV",
+    "category": "Kurdish",
+    "url": "https:\/\/live3.karwan.tv:444\/red-tv\/tracks-v1a1\/mono.m3u8?token=0e72c059fb3232a2daf854de6c16d7afa0b8d14f-a2b01e14e810b03a4e99ad4e39fb45a3-1781660080-1781552080",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ5_NDROEufefimTCh6J-EckxBGTH5Tn6wqQ-pReONT0g&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ5_NDROEufefimTCh6J-EckxBGTH5Tn6wqQ-pReONT0g&s=10"
+  },
+  {
+    "id": "1abbf0dd-c00",
+    "name": "Zagros 24",
+    "category": "Kurdish",
+    "url": "https:\/\/live1.karwan.tv:444\/zagros-24\/tracks-v1a1\/mono.m3u8?token=dee92640005ffc9d4732eb5cb942eae98e2c824d-328e2ac7ed8b98cd5874e6bb92d9c71a-1781660299-1781552299",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0d7cb3f7-8a5",
+    "name": "IRIB UHD 4K",
+    "category": "KRD Sport",
+    "url": "https:\/\/live-aburayhan1113.telewebion.ir\/ek\/faratar\/live\/108050p\/index.m3u8",
+    "logo": "https:\/\/static.telewebion.ir\/channelsLogo\/6495b89d-0463-4544-9f09-0321b26ad116\/default",
+    "thumbnail": "https:\/\/static.telewebion.ir\/channelsLogo\/6495b89d-0463-4544-9f09-0321b26ad116\/default"
+  },
+  {
+    "id": "cbdd6add-641",
+    "name": "Kordestan",
+    "category": "Kurdish",
+    "url": "https:\/\/live-aburayhan1112.telewebion.ir\/ek\/kordestan\/live\/1080p\/index.m3u8",
+    "logo": "https:\/\/static.telewebion.ir\/channelsLogo\/ZTFiYWUwYTkzZmQ3OWU3Y2VmMzgwYTBiMGRjZTE5ZmFkOTUwNmY0N2JkNWNlZDRkMDZiMmQzYzhkOTZmZjIwNw\/default",
+    "thumbnail": "https:\/\/static.telewebion.ir\/channelsLogo\/ZTFiYWUwYTkzZmQ3OWU3Y2VmMzgwYTBiMGRjZTE5ZmFkOTUwNmY0N2JkNWNlZDRkMDZiMmQzYzhkOTZmZjIwNw\/default"
+  },
+  {
+    "id": "e9ceadbe-f25",
+    "name": "Mahabad",
+    "category": "Kurdish",
+    "url": "https:\/\/live-aburayhan1104.telewebion.ir\/ek\/mahabad\/live\/1080p\/index.m3u8",
+    "logo": "https:\/\/static.telewebion.ir\/channelsLogo\/YmQyYmI3ZGY1YWQ4YjViODgyZGM5ZTQyOTI4NmM2MzBmNWMzMjM1MzQ2ZWYwMDg4NjQ1M2JiNTFiNjA3YjM2Zg\/default",
+    "thumbnail": "https:\/\/static.telewebion.ir\/channelsLogo\/YmQyYmI3ZGY1YWQ4YjViODgyZGM5ZTQyOTI4NmM2MzBmNWMzMjM1MzQ2ZWYwMDg4NjQ1M2JiNTFiNjA3YjM2Zg\/default"
+  },
+  {
+    "id": "5a96b308-2bd",
+    "name": "Soz Quran 2",
+    "category": "Quran",
+    "url": "https:\/\/183.bozztv.com\/giatv\/giatv-SOZ\/SOZ\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png"
+  },
+  {
+    "id": "d4897e74-3fe",
+    "name": "سورة الفاتحة",
+    "category": "Quran",
+    "url": "https:\/\/download.quranicaudio.com\/quran\/abdulmun3im_abdulmubdi2\/001.mp3",
+    "logo": "https:\/\/assets-1f14.kxcdn.com\/images\/logo-lg-w.png",
+    "thumbnail": "https:\/\/assets-1f14.kxcdn.com\/images\/logo-lg-w.png"
+  },
+  {
+    "id": "3ba75ff1-dda",
+    "name": "سورة البقرة",
+    "category": "Quran",
+    "url": "https:\/\/download.quranicaudio.com\/quran\/abdulmun3im_abdulmubdi2\/002.mp3",
+    "logo": "https:\/\/assets-1f14.kxcdn.com\/images\/logo-lg-w.png",
+    "thumbnail": "https:\/\/assets-1f14.kxcdn.com\/images\/logo-lg-w.png"
+  },
+  {
+    "id": "bda1a076-31e",
+    "name": "Speda TV",
+    "category": "KRD News",
+    "url": "http:\/\/superp4.xyz\/MP5Z6J8\/VC5LNFM\/54072",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1786207917673\/SPEDATV.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1786207917673\/SPEDATV.png"
+  },
+  {
+    "id": "fcc55688-907",
+    "name": "21",
+    "category": "Kurdish",
+    "url": "https:\/\/kogafile.com\/proxy18\/proxy.php?url=http:\/\/k21hd.mypsx.net:40\/live\/KANALI\/playlist.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9fc9f36b-da3",
+    "name": "Peshmarga",
+    "category": "Kurdish",
+    "url": "https:\/\/stream.forcaroo.com\/stream\/hls\/desktop.m3u8",
+    "logo": "https:\/\/imgur.com\/JVjnVFh.png",
+    "thumbnail": "https:\/\/imgur.com\/JVjnVFh.png"
+  },
+  {
+    "id": "aaf255e6-cf9",
+    "name": "Hormzyar TV",
+    "category": "Kurdish",
+    "url": "http:\/\/avrstream.com:1935\/live\/HormzyarHD\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSAufnJyvFKvqqVCs_A2IrNaNOBM7k7_cr45RO68bm7TQ&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSAufnJyvFKvqqVCs_A2IrNaNOBM7k7_cr45RO68bm7TQ&s=10"
+  },
+  {
+    "id": "22def428-e0d",
+    "name": "Al Jazeera 2",
+    "category": "KRD News",
+    "url": "https:\/\/live-hls-web-aja2-gcp.thehlive.com\/AJA2\/01.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10"
+  },
+  {
+    "id": "0da24948-ea7",
+    "name": "Al Arabiya",
+    "category": "KRD News",
+    "url": "https:\/\/live.alarabiya.net\/alarabiapublish\/alarabiya.smil\/playlist.m3u8",
+    "logo": "https:\/\/media.info\/l\/o\/5\/5862.1442339387.png",
+    "thumbnail": "https:\/\/media.info\/l\/o\/5\/5862.1442339387.png"
+  },
+  {
+    "id": "6f55c781-c03",
+    "name": "Bein Sports 1",
+    "category": "KRD Sport",
+    "url": "https:\/\/live.kurdtips.uno\/proxy.php?url=http%3A%2F%2F167.233.89.130%2Flive.php%3Furl%3Dhttp%3A%2F%2Fh42.reelpush.online%2Flive%2F1515000000%2Findex.m3u8",
+    "logo": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg",
+    "thumbnail": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg"
+  },
+  {
+    "id": "6f265d00-a7f",
+    "name": "Kurd Channel",
+    "category": "Kurdish",
+    "url": "https:\/\/live.kurdtips.uno\/proxy.php?url=https%3A%2F%2Fkurdchhls.wns.live%2Fhls%2Fstream.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxXFOvb3c0eMF4_5EDFePU_0S8RP1CjMByw9QpfAyt_w&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxXFOvb3c0eMF4_5EDFePU_0S8RP1CjMByw9QpfAyt_w&s=10"
+  },
+  {
+    "id": "06b819d1-d44",
+    "name": "Walla TV",
+    "category": "Kurdish",
+    "url": "https:\/\/api.allorigins.win\/raw?url=https%3A%2F%2Fkurdchhls.wns.live%2Fhls%2Fstream.m3u8",
+    "logo": "https:\/\/i.imgur.com\/sFn9JWH.jpeg",
+    "thumbnail": "https:\/\/i.imgur.com\/sFn9JWH.jpeg"
+  },
+  {
+    "id": "0fc54376-642",
+    "name": "Shna TV",
+    "category": "Kurdish",
+    "url": "http:\/\/shnatv.ddns.net:1935\/live\/shnatv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/zDRMbxtm\/D73-D4-D06-8642-4-D17-AC21-B718-D5-D84064.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/zDRMbxtm\/D73-D4-D06-8642-4-D17-AC21-B718-D5-D84064.jpg"
+  },
+  {
+    "id": "abe7b7a7-228",
+    "name": "Zoo Moo TV",
+    "category": "Kids",
+    "url": "https:\/\/amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv\/ts-eu-w1-n2\/playlist\/amg01553-blueantmediaasi-zoomoonz-samsungnz\/cb553e1f796c678d9dd43e64d0ef42a3d3243dfc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505d6cdb62c76c70879e26fd36612e6c2dde87b778de87110fa2c074524ece060241a2574e85352477dae21541c51ebd6b0a1eed463f0565c3ed47ad6852d5fd55d92675debdbe306f2c180680585ee2be5da5edf55f4dd03aa0b61c4b882845b6d65fc8d54aba9ddc5f9c469b7ef7179cc7a68c8110d7879701ff6d8c5cccbf4407fba948d1ad74a4db8b1b56f61309756e9e623ef1842a1d954e422693977d36008d76eb9b27886c75d4682dc6e142e84a9873c2c45ca2a4b79522137acc4c3c10fd1a0f3d8f8c1713c4d5d6a099e5125ab9bc785954c06c97002a3f98f9ca10be2174fcb90e8aae601134c1de10d5cdf2cbc3b9835f847e8ae6fa9c2f4d47674453d606e2b1249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db67ab7ca723cc7764aa83a3ff25430c071fdbe2de7ae94b0556cfb8d91309205889404d6e40da0694e3b53e3884c5527142e308f8df6a5c8a52b1cf1dc29aa93862eae45a18d90e968\/83\/1920x1080_4716800\/index.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsaPVcqOnguc3qm9dAHFXqD7qxzf-lUVsI86v2EMyzAA&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsaPVcqOnguc3qm9dAHFXqD7qxzf-lUVsI86v2EMyzAA&s=10"
+  },
+  {
+    "id": "d54792f9-001",
+    "name": "TRT 1",
+    "category": "Kurdish",
+    "url": "https:\/\/tv-trt1.medya.trt.com.tr\/master_720.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQrZVbF8CTNUy7PObwHw8QinZxZUJwiUexn0BMJ1QlTiA&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQrZVbF8CTNUy7PObwHw8QinZxZUJwiUexn0BMJ1QlTiA&s=10"
+  },
+  {
+    "id": "cc045d20-984",
+    "name": "Sahar Kurdi",
+    "category": "Kurdish",
+    "url": "https:\/\/nl1-cdn.sepehrtv.org\/securelive3\/saharkurdsd\/576p.m3u8?s=YM0I9_izT1E5Ix4b8Ek3lw&t=1782415772",
+    "logo": "https:\/\/i.postimg.cc\/9XL22QVG\/4bk1a355c172782htx-800-C450.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/9XL22QVG\/4bk1a355c172782htx-800-C450.jpg"
+  },
+  {
+    "id": "fa291446-367",
+    "name": "I Kurd TV",
+    "category": "Kurdish",
+    "url": "https:\/\/lbgo.bozztv.com\/ssh101\/ssh101\/kurd26\/playlist.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0e6df688-9fa",
+    "name": "Kurdmax Show",
+    "category": "Kurdish",
+    "url": "https:\/\/kurdmaxshow1.worldtvplus.workers.dev",
+    "logo": "https:\/\/i.postimg.cc\/vQTV2y7W\/show.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/vQTV2y7W\/show.png"
+  },
+  {
+    "id": "74bb6053-0ca",
+    "name": "KURD MAX SHOW SORANY",
+    "category": "Default2",
+    "url": "https:\/\/kurdmaxshow1.worldtvplus.workers.dev\/",
+    "logo": "https:\/\/i.ibb.co\/PssV6hFX\/WORLD-TV-PLUS-KURDMAX-SHOW.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/PssV6hFX\/WORLD-TV-PLUS-KURDMAX-SHOW.jpg"
+  },
+  {
+    "id": "db3061ee-96a",
+    "name": "BNAR MOVIES HD",
+    "category": "Default2",
+    "url": "https:\/\/cdn.karwan.tv\/bnar-movies\/index.m3u8",
+    "logo": "https:\/\/i.ibb.co\/yc4hT4rc\/WORLD-TV-PLUS-BNAR-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/yc4hT4rc\/WORLD-TV-PLUS-BNAR-TV.jpg"
+  },
+  {
+    "id": "85ea600a-434",
+    "name": "BNAR ACTION HD",
+    "category": "Default2",
+    "url": "https:\/\/cdn.karwan.tv\/bnar-action\/index.m3u8",
+    "logo": "https:\/\/i.ibb.co\/yc4hT4rc\/WORLD-TV-PLUS-BNAR-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/yc4hT4rc\/WORLD-TV-PLUS-BNAR-TV.jpg"
+  },
+  {
+    "id": "6d19e6b3-165",
+    "name": "RED TV",
+    "category": "Default2",
+    "url": "http:\/\/avrstream.com:1935\/live\/REDTV\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/cX8cycFD\/WORLD-TV-PLUS-RED-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/cX8cycFD\/WORLD-TV-PLUS-RED-TV.jpg"
+  },
+  {
+    "id": "88f31330-aac",
+    "name": "AVAR TV",
+    "category": "Default2",
+    "url": "http:\/\/avrstream.com:1935\/live\/AvarTv\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/RTJ0NWyR\/WORLD-TV-PLUS-AVAR.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/RTJ0NWyR\/WORLD-TV-PLUS-AVAR.jpg"
+  },
+  {
+    "id": "e9d39fec-d2f",
+    "name": "HormzyarHD",
+    "category": "Default2",
+    "url": "http:\/\/avrstream.com:1935\/live\/HormzyarHD\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/i.ibb.co\/CF1ZrjF\/WORLD-TV-PLUS-H.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/CF1ZrjF\/WORLD-TV-PLUS-H.jpg"
+  },
+  {
+    "id": "8b34528d-2e0",
+    "name": "SOZ TV",
+    "category": "Default2",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-sozetv\/sozetv\/chunks.m3u8",
+    "logo": "https:\/\/i.ibb.co\/Q3CSm7Kc\/WORLD-TV-PLUS-SOZ-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/Q3CSm7Kc\/WORLD-TV-PLUS-SOZ-TV.jpg"
+  },
+  {
+    "id": "1421e735-9a2",
+    "name": "RANYA TV",
+    "category": "Default2",
+    "url": "https:\/\/avr.host247.net\/Ranya\/RanyaCity\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/VcK15tpv\/WORLD-TV-PLUS-RANYA-CITY.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/VcK15tpv\/WORLD-TV-PLUS-RANYA-CITY.jpg"
+  },
+  {
+    "id": "24c070e3-345",
+    "name": "IMK TV",
+    "category": "Default2",
+    "url": "http:\/\/imkhd.ddns.net:1935\/live\/imkhd\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/4gTXqJgz\/WORLD-TV-PLUS-IMK-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/4gTXqJgz\/WORLD-TV-PLUS-IMK-TV.jpg"
+  },
+  {
+    "id": "88208127-0ab",
+    "name": "WALLA TV",
+    "category": "Default2",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-wallatv88\/wallatv88\/chunks.m3u8",
+    "logo": "https:\/\/i.ibb.co\/V0H93c78\/WORLD-TV-PLUS-WALLA-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/V0H93c78\/WORLD-TV-PLUS-WALLA-TV.jpg"
+  },
+  {
+    "id": "07be2251-078",
+    "name": "BARIN FAMILY",
+    "category": "Default2",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/BarinfamilyHD\/mono.m3u8",
+    "logo": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg"
+  },
+  {
+    "id": "af648deb-623",
+    "name": "BARIN QURAN",
+    "category": "Default2",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/QURANHDTV\/mono.m3u8",
+    "logo": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg"
+  },
+  {
+    "id": "1e2dc4d7-259",
+    "name": "EMAN TV",
+    "category": "Default2",
+    "url": "http:\/\/avrstream.com:1935\/live\/emantv\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/i.ibb.co\/RTHKnWTG\/In-Shot-20260616-121720288.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/RTHKnWTG\/In-Shot-20260616-121720288.jpg"
+  },
+  {
+    "id": "0e9939c5-99e",
+    "name": "BEFRIN TV",
+    "category": "Default2",
+    "url": "http:\/\/cdn.karwan.tv\/befrin-tv\/index.m3u8",
+    "logo": "https:\/\/i.ibb.co\/W4v2905k\/WORLD-TV-PLUS-BEFRIN-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/W4v2905k\/WORLD-TV-PLUS-BEFRIN-TV.jpg"
+  },
+  {
+    "id": "5c62ba6b-f31",
+    "name": "K 21",
+    "category": "Default2",
+    "url": "http:\/\/k21hd.mypsx.net:40\/live\/KANALI\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/FqjmksdC\/WORLD-TV-PLUS-K21.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/FqjmksdC\/WORLD-TV-PLUS-K21.jpg"
+  },
+  {
+    "id": "5134978d-ab0",
+    "name": "IMK QURAN",
+    "category": "Default2",
+    "url": "http:\/\/avrstream.com:1935\/live\/IMKQURANHD\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/k2PxGT8v\/WORLD-TV-PLUS-IMK-QURAN.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/k2PxGT8v\/WORLD-TV-PLUS-IMK-QURAN.jpg"
+  },
+  {
+    "id": "0179c15e-3c2",
+    "name": "MIHRAB",
+    "category": "Default2",
+    "url": "https:\/\/yayin30.haber100.com\/live\/mihraptv\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/vtmQPQS\/In-Shot-20260610-173119187.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/vtmQPQS\/In-Shot-20260610-173119187.jpg"
+  },
+  {
+    "id": "2f548541-0b1",
+    "name": "DERIN TV",
+    "category": "Default2",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/Derin\/index.m3u8",
+    "logo": "https:\/\/i.ibb.co\/gM7gc7Nq\/WORLD-TV-PLUS-DERIN.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/gM7gc7Nq\/WORLD-TV-PLUS-DERIN.jpg"
+  },
+  {
+    "id": "90066b8e-bab",
+    "name": "QALLAT TV",
+    "category": "Default2",
+    "url": "http:\/\/213.32.255.86:1935\/live\/Qellat_tv\/hawezhd.m3u8",
+    "logo": "https:\/\/i.ibb.co\/KP2yzwN\/WORLD-TV-PLUS-QALLAT.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/KP2yzwN\/WORLD-TV-PLUS-QALLAT.jpg"
+  },
+  {
+    "id": "0e915c9b-29f",
+    "name": "J MEDIA",
+    "category": "Default2",
+    "url": "http:\/\/jegrmediahussen.com:8088\/JMedia\/tracks-v1a1\/mono.m3u8",
+    "logo": "https:\/\/i.ibb.co\/ymSXw6tJ\/WORLD-TV-PLUS-JMEDIA.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/ymSXw6tJ\/WORLD-TV-PLUS-JMEDIA.jpg"
+  },
+  {
+    "id": "a4a59c88-fb3",
+    "name": "NUÇE TV",
+    "category": "Default2",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/NU_TV\/HLS\/NU_TV.m3u8",
+    "logo": "https:\/\/i.ibb.co\/7x6grdcN\/WORLD-TV-PLUS-NUCE-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/7x6grdcN\/WORLD-TV-PLUS-NUCE-TV.jpg"
+  },
+  {
+    "id": "f989607b-1ed",
+    "name": "WALET TV",
+    "category": "Default2",
+    "url": "https:\/\/stream.badinan.xyz\/welat\/tv\/playlist.m3u8",
+    "logo": "https:\/\/i.ibb.co\/jkyF2THp\/WORLD-TV-PLUS-WALET-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/jkyF2THp\/WORLD-TV-PLUS-WALET-TV.jpg"
+  },
+  {
+    "id": "338a6818-f1b",
+    "name": "QURAN KREM",
+    "category": "Default2",
+    "url": "https:\/\/live20.bozztv.com\/giatv\/giatv-dekanquran\/dekanquran\/chunks.m3u8",
+    "logo": "https:\/\/i.ibb.co\/hJ7GtqS0\/QURAN-KAREAM.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/hJ7GtqS0\/QURAN-KAREAM.jpg"
+  },
+  {
+    "id": "fe18119f-a7c",
+    "name": "Alwan 1",
+    "category": "KRD Sport",
+    "url": "http:\/\/195.182.16.45:8080\/live\/115581720170\/135965685413\/418111.ts?secure=MTc4MjU4MTkzMg==&token=yyzUfHb.Uydyc.X.UbHdH.ydzHcbHbzH.X.y.IQ.ts.aa272d22f25aa1c52d722f4ae7630e79f5e500f581c400bc4c8ee4cee625216b.203982.RXJiaWwgSW50ZXJuYXRpb25hbCBBaXJwb3J0.Z2F6YWxvbmUubGlmZQ==",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "a5bb8341-5d7",
+    "name": "Alwan 2",
+    "category": "KRD Sport",
+    "url": "http:\/\/217.60.15.178:8080\/live\/115581720170\/135965685413\/418114.ts?secure=MTc4MjU5MzA5OQ==&token=yyzUfHb.fzzzd.X.fXyyz.ydzHcdzHba.X.y.IQ.ts.652ef43d70b201f4a55fed5063cd2730fb8ffea7656b5fb7a8beca567d823ea3.206206.TzMtVGVsZWNvbQ==.Z2F6YWxvbmUubGlmZQ==",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "72d509fc-51f",
+    "name": "منشاوي",
+    "category": "Quran",
+    "url": "https:\/\/backup.qurango.net\/radio\/mohammed_siddiq_alminshawi",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "da0744e2-f64",
+    "name": "Bein Sports Max 1",
+    "category": "KRD Sport",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/914472",
+    "logo": "https:\/\/ia601404.us.archive.org\/3\/items\/palany-sports\/1783286947133.jpg",
+    "thumbnail": "https:\/\/ia601404.us.archive.org\/3\/items\/palany-sports\/1783286947133.jpg"
+  },
+  {
+    "id": "16070bae-6cf",
+    "name": "UTV Hawler",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/147494",
+    "logo": "https:\/\/utvhawler.net\/images\/logo.png",
+    "thumbnail": "https:\/\/utvhawler.net\/images\/logo.png"
+  },
+  {
+    "id": "b1aebf83-3c6",
+    "name": "سعد الغامدي",
+    "category": "Quran",
+    "url": "https:\/\/backup.qurango.net\/radio\/saad_alghamdi",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ebb15fad-56d",
+    "name": "إدريس أبكر",
+    "category": "Quran",
+    "url": "https:\/\/backup.qurango.net\/radio\/idrees_abkr",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "798d234e-d78",
+    "name": "علي جابر",
+    "category": "Quran",
+    "url": "https:\/\/backup.qurango.net\/radio\/ali_jaber",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "67b90c3f-39d",
+    "name": "Bein Sports Max 2",
+    "category": "KRD Sport",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/914473",
+    "logo": "https:\/\/ia601404.us.archive.org\/3\/items\/palany-sports\/1783286947133.jpg",
+    "thumbnail": "https:\/\/ia601404.us.archive.org\/3\/items\/palany-sports\/1783286947133.jpg"
+  },
+  {
+    "id": "c09e89da-275",
+    "name": "Alwan Sport 1",
+    "category": "KRD Sport",
+    "url": "http:\/\/sansatplus.net:88\/JXDZMUW9VA\/DJNOI3ZKXN\/852917",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "4c8f093d-0b0",
+    "name": "Alwan Sport 2",
+    "category": "KRD Sport",
+    "url": "http:\/\/sansatplus.net:88\/JXDZMUW9VA\/DJNOI3ZKXN\/852920",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "94f87225-29d",
+    "name": "Alwan Sport 3",
+    "category": "KRD Sport",
+    "url": "http:\/\/sansatplus.net:88\/JXDZMUW9VA\/DJNOI3ZKXN\/852923",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "e9e6ef47-de3",
+    "name": "Alwan Sport 4",
+    "category": "KRD Sport",
+    "url": "http:\/\/sansatplus.net:88\/JXDZMUW9VA\/DJNOI3ZKXN\/852926",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "6a06870b-ab0",
+    "name": "Alwan Sport 5",
+    "category": "KRD Sport",
+    "url": "http:\/\/sansatplus.net:88\/JXDZMUW9VA\/DJNOI3ZKXN\/852929",
+    "logo": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg",
+    "thumbnail": "https:\/\/www.newsroom.info\/Upload\/libfiles\/35\/1\/932.jpeg"
+  },
+  {
+    "id": "8cdea23f-633",
+    "name": "Astera Sport",
+    "category": "KRD Sport",
+    "url": "http:\/\/superp4.xyz\/MP5Z6J8\/VC5LNFM\/54059",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-sport.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-sport.png"
+  },
+  {
+    "id": "4d148244-d26",
+    "name": "Aso Sport",
+    "category": "KRD Sport",
+    "url": "http:\/\/superp4.xyz\/MP5Z6J8\/VC5LNFM\/771667",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2024\/05\/ASO-Sport.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2024\/05\/ASO-Sport.png"
+  },
+  {
+    "id": "8786cc32-d5d",
+    "name": "Duhok Sport",
+    "category": "KRD Sport",
+    "url": "http:\/\/superp4.xyz\/MP5Z6J8\/VC5LNFM\/804064",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/duhok-sport.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/duhok-sport.png"
+  },
+  {
+    "id": "b7fa38a5-0e4",
+    "name": "NRT 3 Kids",
+    "category": "Kids",
+    "url": "http:\/\/16k.xyz:2082\/Yosemxte\/Wz7MSGamURRX\/226345",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "842bfcd6-d4b",
+    "name": "Kurdmax Pepule",
+    "category": "Kids",
+    "url": "http:\/\/16k.xyz:2082\/Yosemxte\/Wz7MSGamURRX\/300288",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "71d27a9a-844",
+    "name": "Astera Baby",
+    "category": "Kids",
+    "url": "http:\/\/128.0.104.44:8070\/Javamicro\/0481fbb702\/24482",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b0e7c9a2-e7b",
+    "name": "Niga Kids",
+    "category": "Kids",
+    "url": "http:\/\/superp4.xyz\/MP5Z6J8\/VC5LNFM\/54029",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b5c075d2-8c3",
+    "name": "NRT 4",
+    "category": "Kurdish",
+    "url": "http:\/\/cli2345.live:2082\/live\/59979526\/23928915\/180162.ts",
+    "logo": "https:\/\/i.postimg.cc\/594N5G2W\/NRT4.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/594N5G2W\/NRT4.png"
+  },
+  {
+    "id": "2f5d0473-41e",
+    "name": "ژوور",
+    "category": "HD",
+    "url": "http:\/\/fcs01.com:8080\/gafuralmhomi\/c58xqC7\/210278",
+    "logo": "https:\/\/ia600602.us.archive.org\/31\/items\/K24-logo\/copilot_image_1782587875737.jpeg",
+    "thumbnail": "https:\/\/ia600602.us.archive.org\/31\/items\/K24-logo\/copilot_image_1782587875737.jpeg"
+  },
+  {
+    "id": "61773e05-245",
+    "name": "باران",
+    "category": "HD",
+    "url": "http:\/\/fcs01.com:8080\/gafuralmhomi\/c58xqC7\/210283",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c1e1fa3a-7a4",
+    "name": "دەریا",
+    "category": "HD",
+    "url": "http:\/\/fcs01.com:8080\/gafuralmhomi\/c58xqC7\/210291",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2e1359e5-e4c",
+    "name": "ژووری باران",
+    "category": "HD",
+    "url": "http:\/\/fcs01.com:8080\/gafuralmhomi\/c58xqC7\/210296",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "eae0380f-edf",
+    "name": "FIFA HD",
+    "category": "KRD Sport",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/169741",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "90e25f75-641",
+    "name": "Sahar Kurdi",
+    "category": "Kurdish",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/738183",
+    "logo": "https:\/\/i.postimg.cc\/9XL22QVG\/4bk1a355c172782htx-800-C450.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/9XL22QVG\/4bk1a355c172782htx-800-C450.jpg"
+  },
+  {
+    "id": "19f51f6c-87a",
+    "name": "Sulaimani HD",
+    "category": "Kurdish",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/805996",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "617e8337-dc8",
+    "name": "Cihan TV",
+    "category": "Kurdish",
+    "url": "http:\/\/195.128.27.253:2095\/548607065148\/955372318450\/931892",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/cihan.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/cihan.png"
+  },
+  {
+    "id": "f74693c7-610",
+    "name": "Fox Movie HD",
+    "category": "Kurdish",
+    "url": "http:\/\/195.128.27.253:2095\/548607065148\/955372318450\/1035276",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d1226a05-bef",
+    "name": "Minara HD",
+    "category": "Kurdish",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/1034792",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d84d1b01-bd1",
+    "name": "Aro Family",
+    "category": "Kurdish",
+    "url": "http:\/\/vgr.tahpascal78.space\/Mogangreece2026\/T36YL44\/804678",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "47b02482-c9b",
+    "name": "Astera Family HD",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/147455",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-family.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-family.png"
+  },
+  {
+    "id": "baceeb5f-9e4",
+    "name": "Astera Movies HD",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/193421",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-movies.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-movies.png"
+  },
+  {
+    "id": "591dadc2-7b8",
+    "name": "Astera Show HD",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/193422",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-show.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-show.png"
+  },
+  {
+    "id": "8e7db3c8-8d7",
+    "name": "Niga Movie HD",
+    "category": "Kurdish",
+    "url": "http:\/\/mitvpro.online:88\/OcMTMfuFj1cuRMh\/PvMMAbzCCpCPmGF\/190042",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/niga-movies.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/niga-movies.png"
+  },
+  {
+    "id": "954939fe-1cf",
+    "name": "Zaxo HD",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/300290",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "710e2cfb-74b",
+    "name": "Panda Yalla",
+    "category": "Kurdish",
+    "url": "http:\/\/195.128.27.253:2095\/548607065148\/955372318450\/931937",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8b5e5698-5be",
+    "name": "BMC HD",
+    "category": "Kurdish",
+    "url": "http:\/\/195.128.27.253:2095\/548607065148\/955372318450\/931915",
+    "logo": "https:\/\/bmctv.krd\/images\/logo.png",
+    "thumbnail": "https:\/\/bmctv.krd\/images\/logo.png"
+  },
+  {
+    "id": "4a4f0a00-e6d",
+    "name": "Barnami Barnama",
+    "category": "Kurdish",
+    "url": "http:\/\/iptvtree.net:8080\/Javamicro\/0481fbb702\/270354",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4f5c33bd-625",
+    "name": "Raad Kurdi Audio",
+    "category": "Quran",
+    "url": "http:\/\/r11.tarat.com:8096\/index.html\/stream",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7d0b7451-f68",
+    "name": "Znar Kids",
+    "category": "Kids",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309345",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "69303286-44b",
+    "name": "ZNAR HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309278",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/znar.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/znar.png"
+  },
+  {
+    "id": "a73c6bd3-51c",
+    "name": "DIMEN TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309306",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/diman.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/diman.png"
+  },
+  {
+    "id": "5e26d810-11a",
+    "name": "FAMILY RAPARIN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/176301",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ff297d6d-e7b",
+    "name": "FAMILY KOYA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309303",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3d77e23d-108",
+    "name": "K24 Documentary",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309273",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3fb424e3-440",
+    "name": "KURDANA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309299",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b5526b22-164",
+    "name": "NISHTIMANI MN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309260",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4d2b73f9-dcd",
+    "name": "ASTERA CALTOR",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90969",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-folklor.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-folklor.png"
+  },
+  {
+    "id": "5fc11ae0-262",
+    "name": "KELGA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309340",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7f3fa532-cfd",
+    "name": "NIRGZ",
+    "category": "FAMILY",
+    "url": "http:\/\/max4kcdn.com:8080\/live\/5161699711\/3840575058\/183400.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "126457c4-fa4",
+    "name": "RASAN TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/1962",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/rasan.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/rasan.png"
+  },
+  {
+    "id": "52cf7587-649",
+    "name": "New line 1",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/1031",
+    "logo": "https:\/\/i.postimg.cc\/GRfhKqCQ\/n1.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/GRfhKqCQ\/n1.png"
+  },
+  {
+    "id": "13df4f7d-6ed",
+    "name": "New line 2",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/1961",
+    "logo": "https:\/\/i.postimg.cc\/pxnV6zVt\/n2.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/pxnV6zVt\/n2.png"
+  },
+  {
+    "id": "eeac0f12-685",
+    "name": "ZED TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/10581",
+    "logo": "https:\/\/i.postimg.cc\/gzsJ584W\/zed.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/gzsJ584W\/zed.png"
+  },
+  {
+    "id": "fd39a9df-ac6",
+    "name": "ZED PLUS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90975",
+    "logo": "https:\/\/i.postimg.cc\/sfr6CZwy\/zed.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/sfr6CZwy\/zed.png"
+  },
+  {
+    "id": "4aaa0b56-ed2",
+    "name": "Astera Show",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90967",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-show.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-show.png"
+  },
+  {
+    "id": "fcc9fdd8-937",
+    "name": "ASTERA FAMILY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90965",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-family.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-family.png"
+  },
+  {
+    "id": "7a998c21-914",
+    "name": "RENG TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/300522",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/reng-family.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/reng-family.png"
+  },
+  {
+    "id": "48e166bb-1b5",
+    "name": "NIGA FAMILY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/103926",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/niga-family.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/niga-family.png"
+  },
+  {
+    "id": "038e181a-82c",
+    "name": "KOMAL TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309146",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8d6ecdef-a61",
+    "name": "KURDMAX",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/5",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQRhS9bmjLHKM4O4-ERg9kZtqgnDlo-puZlT4KFxT4nog&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQRhS9bmjLHKM4O4-ERg9kZtqgnDlo-puZlT4KFxT4nog&s=10"
+  },
+  {
+    "id": "85621751-b55",
+    "name": "BMC HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/184191",
+    "logo": "https:\/\/bmctv.krd\/images\/logo.png",
+    "thumbnail": "https:\/\/bmctv.krd\/images\/logo.png"
+  },
+  {
+    "id": "875b874e-70f",
+    "name": "ALA HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309298",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS61Czh_ehcr8vfcgjmtw_hSpkaj0WFRa-DmLS0RHZG4A&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS61Czh_ehcr8vfcgjmtw_hSpkaj0WFRa-DmLS0RHZG4A&s=10"
+  },
+  {
+    "id": "cfbda996-25c",
+    "name": "KHAK TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/300716",
+    "logo": "https:\/\/i.postimg.cc\/44C801bx\/khak.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/44C801bx\/khak.png"
+  },
+  {
+    "id": "7146387d-9f6",
+    "name": "QALLAT TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90974",
+    "logo": "https:\/\/i.ibb.co\/KP2yzwN\/WORLD-TV-PLUS-QALLAT.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/KP2yzwN\/WORLD-TV-PLUS-QALLAT.jpg"
+  },
+  {
+    "id": "80ebc1da-8da",
+    "name": "GK PLUS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309336",
+    "logo": "https:\/\/i.ibb.co\/kgVxwSNk\/WORLD-TV-PLUS-GK-PLUS.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/kgVxwSNk\/WORLD-TV-PLUS-GK-PLUS.jpg"
+  },
+  {
+    "id": "8e3689e8-a0f",
+    "name": "ESTA TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/301370",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "f5a7c1f5-e26",
+    "name": "KURDMAX SHOW",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/2289",
+    "logo": "https:\/\/i.postimg.cc\/vQTV2y7W\/show.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/vQTV2y7W\/show.png"
+  },
+  {
+    "id": "2c0d99a9-954",
+    "name": "Bein 4k",
+    "category": "FAMILY",
+    "url": "http:\/\/tectonbrand.com\/F3ANK5Z\/7W11KJR\/1441958",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "dbb209bf-3d0",
+    "name": "RANYA TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309263",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1785003235658\/sazan_logo_31052.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1785003235658\/sazan_logo_31052.png"
+  },
+  {
+    "id": "322985f6-a40",
+    "name": "QALAM HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307156",
+    "logo": "https:\/\/i.postimg.cc\/ZTJ7px4k\/qalamain.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/ZTJ7px4k\/qalamain.png"
+  },
+  {
+    "id": "8ede288f-843",
+    "name": "Cihan TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309269",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/cihan.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/cihan.png"
+  },
+  {
+    "id": "e12b0075-9a4",
+    "name": "Speda Drama",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/106140",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/spda-drama.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/spda-drama.png"
+  },
+  {
+    "id": "02476dad-d40",
+    "name": "Niga Movie",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/103927",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/niga-movies.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/niga-movies.png"
+  },
+  {
+    "id": "aca7a8c5-40d",
+    "name": "IRAQYA KURDI",
+    "category": "FAMILY",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-kurdish.m3u8?sid=nfnxq3utmpb86051",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "53c44656-144",
+    "name": "ECluth Access",
+    "category": "FAMILY",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/ECLUTCH_ACCESS\/SCTE_HLS\/ECLUTCH_ACCESS-avc1_350000=10000-mp4a_128000=20000.m3u8",
+    "logo": "https:\/\/imgcdn.powr-media.com\/extend:1:ce\/enlarge:1\/resize:fit\/w:80\/h:45\/gravity:ce\/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vMmYyMDk5ZGMtMzlkYS00MGYwLTg5NTgtZmQzNmY2YmM3MTVm",
+    "thumbnail": "https:\/\/imgcdn.powr-media.com\/extend:1:ce\/enlarge:1\/resize:fit\/w:80\/h:45\/gravity:ce\/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vMmYyMDk5ZGMtMzlkYS00MGYwLTg5NTgtZmQzNmY2YmM3MTVm"
+  },
+  {
+    "id": "5343b35b-823",
+    "name": "Barca TV",
+    "category": "KRD Sport",
+    "url": "https:\/\/amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv\/ts-eu-w1-n2\/playlist\/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea\/cb573d167e6c648f92d43e67cef24282847b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6d5a4d1cd209af3c419b8b1dfd034f25536b9f9bb565da9f0211c9a06b5756af6a4208a55b05a7700079d6a05a2b8d2fba74005cb95a391862c3ed47ad662f9ad253d72a39e8fc8b307b24455a9c5a43e6a64cb7ace308178c65f2b00140947b43fa83439fd501b2d5815e83128470f540cf95f989d516d08cab599a0bef207b3b481cc9da3af9a55ebedb94673c904e2647135094d0f98f7a339607615deafccaff56ef12c08036893a70d1638d5d8842ca01d401b3f55eb3f7f49055562eeac2496422acecb68fe8253caf72e8ecfdcb3c26ef9c767144bb1db24c0219b2ac9c58ade237c7e16ed4e6336452b2924a9589b78dfb8f81438a20d9d3e69d3c4f3c006e63d707e3f000d826d36cadc0071e5b484abf9f27b4ecb7783f6d5b848152d85f28a9d49997857e51a26c1a54ef75d85c001ea85e0e59d67795f0596f86361a84475e913965da2d96db28fca3a98d6c5dbcf0c973da3eb5d860b4e403bd64325e70d0984d781f2717b4e9621d220ba02f8583f8c81d67682910ab84a27a09455d3e400d9a90881af9aff359d6925c315c0455031e977eb623bf520b687cb87eb3cc69146526015486c75f3d3a0cb0e8fbeda6c5c345fa5dd2c8f53d2e3f6381dc590a0b61c9bf8155fc771e302a1dc8236d4da81f0102cb9bcdf796896a8ecd34f178495d23e4e0074d0c65766121928427820db5dd4eefdb8277e4dba03e09c530aa0a15def7d96ff3e2c8876c0782a55a1c28c680708b23639759846ba5dd72d1bc50462f3d4649d0871baa0cee91c99159f746ca6e0d7af877b29891d187362c879b29626b5ab576d683fe9e6a0425b44011160be96e5df8af26224bee\/183\/640x360_1442883\/index.m3u8",
+    "logo": "https:\/\/imgcdn.powr-media.com\/extend:1:ce\/enlarge:1\/resize:fit\/w:80\/h:45\/gravity:ce\/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vYmE5OTVlOTUtMzQ2MS00ZWNkLWE3NDgtNGZjYzEzYjM0OWY1",
+    "thumbnail": "https:\/\/imgcdn.powr-media.com\/extend:1:ce\/enlarge:1\/resize:fit\/w:80\/h:45\/gravity:ce\/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vYmE5OTVlOTUtMzQ2MS00ZWNkLWE3NDgtNGZjYzEzYjM0OWY1"
+  },
+  {
+    "id": "1b6be6a5-6ae",
+    "name": "Tennis TV",
+    "category": "KRD Sport",
+    "url": "https:\/\/amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv\/ts-eu-w1-n2\/playlist\/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea\/cb573d167e6c648f92d43e67cef24282847b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6d5a4d1cd209af3c419b8b1dfd034f25536b9f9bb565da9f0211c9a06b5756af6a4208a55b05a7700079d6a05a2b8d2fba74005cb95a391862c3ed47ad662f9ad253d72a39e8fc8b307b24455a9c5a43e6a64cb7a9e20e44893da4b80140947b42fa83439fd501b38186088312d773f2119991f6d8d619838c86599a12f0387b18480391946d83da07f9958d7e2ed2773a431b59efb596ed5e3394535012ece984e51e957fcd81248f6e32b73f964e8935f800c06093e440aea4a89f767763dbae366228aef1a584ef0a34b868e9a79bb31910aae61b6a538559dd2c253183a7bd7ee6ca16e4c649eb9d483f6997dd6cbabfe3d4a2e4dd10f04fafc4fb882d433c006e63d607c8f00ed724c90acba4727106262ec99d51d494ab3d5a031fdcef34b71712bda9e3e9b90715c4513e0bb219b3290663c2206972f112f5932a699a3218803430893b5fe113a6c8469dabdaeb012eb4d9c2309b058db004e0df68c705f9be64c990056e072854c2ef777f5f13a164d7a30165ea6b7a88d6def7c129584d59451064d9938710fbeea0c93d36b8334600147077b0249c05fe13400161eb1fd4a40d75813cc34c8ca8125240659ac4b0ced2989a04fd53dac1e821747b786db9210a2f6a93e7dd02bd13023e5b4d90036174b805714bfeda9cb6cece3d98dc2c811056394f89b01b48025733440f989b679e1ec19b0fb696cf139dbcda5c15cb6ced5150b3dfde65f4e8c1f44e0991b85e5632c4846996255faa7db30a86d662d7b951747e6d1032a28436ad0a59be3312a3284ac07e99c3bb820d8b7f5eb1b1f2fa8980\/25\/640x360_1387360\/index.m3u8",
+    "logo": "https:\/\/imgcdn.powr-media.com\/extend:1:ce\/enlarge:1\/resize:fit\/w:80\/h:45\/gravity:ce\/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNWRiOWQ5YzAtNjY2Zi00MTUzLWE1NWItMGRlMDc0YWJhMGM3",
+    "thumbnail": "https:\/\/imgcdn.powr-media.com\/extend:1:ce\/enlarge:1\/resize:fit\/w:80\/h:45\/gravity:ce\/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNWRiOWQ5YzAtNjY2Zi00MTUzLWE1NWItMGRlMDc0YWJhMGM3"
+  },
+  {
+    "id": "3690e23e-dee",
+    "name": "TENNIS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/300521",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ec9c5ab5-ec0",
+    "name": "SIMA SPORT 1",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309276",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "98a14869-ab0",
+    "name": "ZAXO SPORT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307160",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "dc930bc2-967",
+    "name": "ASO SPORT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/106144",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2024\/05\/ASO-Sport.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2024\/05\/ASO-Sport.png"
+  },
+  {
+    "id": "eb8c0f44-406",
+    "name": "Duhok sport",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309163",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/duhok-sport.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/duhok-sport.png"
+  },
+  {
+    "id": "04ce92c8-75c",
+    "name": "NRT SPORT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/306786",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/nrt-sport.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/nrt-sport.png"
+  },
+  {
+    "id": "6efe8cff-4d3",
+    "name": "AVA SPORT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/306785",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10"
+  },
+  {
+    "id": "14112e15-2e7",
+    "name": "Sport TV 1",
+    "category": "KRD Sport",
+    "url": "http:\/\/94.130.32.19:8080\/sporttv1\/tracks-v1a1\/mono.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8624f8a2-b60",
+    "name": "NRT 2",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/9",
+    "logo": "https:\/\/i.postimg.cc\/JRwv9XjG\/nrt2-2.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/JRwv9XjG\/nrt2-2.png"
+  },
+  {
+    "id": "f3ed4485-861",
+    "name": "AMOZHGARY TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/13498",
+    "logo": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png"
+  },
+  {
+    "id": "fc268c9e-66e",
+    "name": "BANGAWAZ TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/1161",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/bangawaz.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/bangawaz.png"
+  },
+  {
+    "id": "b380dba2-54e",
+    "name": "NRT 4",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/16727",
+    "logo": "https:\/\/i.postimg.cc\/594N5G2W\/NRT4.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/594N5G2W\/NRT4.png"
+  },
+  {
+    "id": "0fcc97d3-56b",
+    "name": "TRT KURDI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/202",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQsua7fLdBOXvDXGnd54GxPAtYwniY04wQ9pPh7-zCFQQ&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQsua7fLdBOXvDXGnd54GxPAtYwniY04wQ9pPh7-zCFQQ&s=10"
+  },
+  {
+    "id": "c655aea7-547",
+    "name": "IRAQYA KURDI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/10691",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7b0e058f-db0",
+    "name": "ROZHALAT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309147",
+    "logo": "https:\/\/www.rojhelat.media\/wp-content\/uploads\/2026\/01\/logo-mob-2.png",
+    "thumbnail": "https:\/\/www.rojhelat.media\/wp-content\/uploads\/2026\/01\/logo-mob-2.png"
+  },
+  {
+    "id": "120e3d0f-f48",
+    "name": "ZAGROS 24",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/10159",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4a1f5d0f-2b0",
+    "name": "IRAN TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/36081",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4912a630-e1a",
+    "name": "FAMILY INFO",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309279",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2e048c77-1e0",
+    "name": "FAMILY HAWRAMAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309312",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4c686c14-818",
+    "name": "PARWARDA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309327",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1783896280603\/PARWARDAY_HAWLER.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1783896280603\/PARWARDAY_HAWLER.png"
+  },
+  {
+    "id": "25df9b5e-013",
+    "name": "DUHOK TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/19919",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/duhok.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/duhok.png"
+  },
+  {
+    "id": "26e9de2b-56e",
+    "name": "INFINITY TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308919",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0ab743b1-590",
+    "name": "GARYAN MEDIA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307161",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/garyan.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/garyan.png"
+  },
+  {
+    "id": "89cfcefe-f58",
+    "name": "BARIN FAMILY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/176462",
+    "logo": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg"
+  },
+  {
+    "id": "a041a5b0-59d",
+    "name": "EURO KURD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307141",
+    "logo": "https:\/\/i.postimg.cc\/08Vjd4K2\/EKURD.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/08Vjd4K2\/EKURD.png"
+  },
+  {
+    "id": "89cf393f-552",
+    "name": "ZAXO TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307159",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "770d39f6-901",
+    "name": "MMN DOCUMENTARY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/64147",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5ff8ca9d-148",
+    "name": "MMN SHOW",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/78329",
+    "logo": "https:\/\/i.postimg.cc\/k9dpmV2J\/MMNSHOW.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/k9dpmV2J\/MMNSHOW.png"
+  },
+  {
+    "id": "f60411ab-cf9",
+    "name": "NEW FAMILY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/306739",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "e2540d2d-5b9",
+    "name": "QURAN PRO",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308917",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "74898f52-013",
+    "name": "WALLA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309144",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "fb49951e-4ec",
+    "name": "ASTERA DOCUMENT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90968",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b4331767-bd0",
+    "name": "RENG DOCUMENTARY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/300523",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "93a77e91-81b",
+    "name": "MMN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/78328",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "f519f305-fce",
+    "name": "QALLAM DOCUMENTARY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307153",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "e9b2a111-57f",
+    "name": "4KURD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307144",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9468ab10-719",
+    "name": "TEST",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308340",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "46080c02-be9",
+    "name": "MMN SPORT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/33300",
+    "logo": "https:\/\/i.postimg.cc\/8NG9hZMg\/MMNSPORT.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/8NG9hZMg\/MMNSPORT.png"
+  },
+  {
+    "id": "1f4951e0-f3d",
+    "name": "WELAT TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308935",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTG16qAp5EpowBJTeXmv6gizv2KtJmzxY0zJqNhiWTMvw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTG16qAp5EpowBJTeXmv6gizv2KtJmzxY0zJqNhiWTMvw&s=10"
+  },
+  {
+    "id": "9f0d20ab-739",
+    "name": "AFARIN KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/30522",
+    "logo": "https:\/\/i.postimg.cc\/2zyx7bRj\/AKID.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/2zyx7bRj\/AKID.png"
+  },
+  {
+    "id": "dd2b518c-f40",
+    "name": "ZAROK TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/10680",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQXb1fuStDyWH8J-B7mRfkvTxcgSlw-ddeZuBNqseQLiw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQXb1fuStDyWH8J-B7mRfkvTxcgSlw-ddeZuBNqseQLiw&s=10"
+  },
+  {
+    "id": "8ebeef5b-da3",
+    "name": "FIRST KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309264",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "be60802e-e5b",
+    "name": "JOJO MAMA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309296",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "14871d85-250",
+    "name": "KURDMA PEPULE",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309266",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "13355df0-47f",
+    "name": "QALAM KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309274",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3f22306e-92a",
+    "name": "M KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309313",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9bf2bb06-e89",
+    "name": "NRT 3",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/11167",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "6274d2b2-14f",
+    "name": "AFARIN BAXCHA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/301372",
+    "logo": "https:\/\/i.ibb.co\/fY1Xpy50\/WORLD-TV-PLUS-AFARIN.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/fY1Xpy50\/WORLD-TV-PLUS-AFARIN.jpg"
+  },
+  {
+    "id": "f2d4a7bc-95c",
+    "name": "ASTERA BABY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90971",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b83c9685-a3a",
+    "name": "RENG KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/300526",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/reng-kids-1.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/reng-kids-1.png"
+  },
+  {
+    "id": "73fff2e4-712",
+    "name": "NIGA KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307125",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "2a57514b-1fb",
+    "name": "MMN KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/78326",
+    "logo": "https:\/\/i.postimg.cc\/GdS0dL0X\/mmnkid.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/GdS0dL0X\/mmnkid.png"
+  },
+  {
+    "id": "c6b144a5-427",
+    "name": "QALLAM KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307155",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "47abeaab-f04",
+    "name": "ATV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308066",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "7fa3da36-9da",
+    "name": "PELSTANK",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307115",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "568c2360-9fc",
+    "name": "A TV HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307116",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "151c10c7-3c2",
+    "name": "QALAM AYNI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307154",
+    "logo": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png"
+  },
+  {
+    "id": "71c59f85-54b",
+    "name": "MMN QURAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/29348",
+    "logo": "https:\/\/i.postimg.cc\/08wJZLfh\/quran.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/08wJZLfh\/quran.png"
+  },
+  {
+    "id": "359c58f6-b42",
+    "name": "EMAN HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309089",
+    "logo": "https:\/\/i.postimg.cc\/yB4Bc8M3\/eman.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/yB4Bc8M3\/eman.png"
+  },
+  {
+    "id": "fa0c2872-baa",
+    "name": "IMK QURAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309091",
+    "logo": "https:\/\/i.ibb.co\/k2PxGT8v\/WORLD-TV-PLUS-IMK-QURAN.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/k2PxGT8v\/WORLD-TV-PLUS-IMK-QURAN.jpg"
+  },
+  {
+    "id": "1ca5c805-5b2",
+    "name": "ALWAN 3",
+    "category": "FAMILY",
+    "url": "http:\/\/lynovo.cc\/live\/407F2F55785345F\/xiAYSAZIpR\/1339223.ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c9c2ebaf-602",
+    "name": "358",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309093",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "581165f5-d5a",
+    "name": "BASK",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309319",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "05a2f3da-b44",
+    "name": "BARIN DOCUMENT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309341",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "778895e1-fc3",
+    "name": "ASTERA MOVIES",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/90966",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-movies.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/astera-movies.png"
+  },
+  {
+    "id": "b7e1adf0-082",
+    "name": "MMN SHOW",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/246074",
+    "logo": "https:\/\/i.postimg.cc\/k9dpmV2J\/MMNSHOW.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/k9dpmV2J\/MMNSHOW.png"
+  },
+  {
+    "id": "5c91091f-00f",
+    "name": "MMN MOVIE",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/250007",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "59ba07c5-dfe",
+    "name": "NEW ACTION",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309337",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "f34a2ace-994",
+    "name": "NEW MOVIE",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307121",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5801eaec-a79",
+    "name": "HORMZYAR HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308890",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "a9b82afd-489",
+    "name": "SHAR TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307943",
+    "logo": "https:\/\/i.postimg.cc\/t4sZNVyj\/Shar-tv-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/t4sZNVyj\/Shar-tv-200.jpg"
+  },
+  {
+    "id": "4c26ac65-f87",
+    "name": "SADA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307944",
+    "logo": "https:\/\/i.postimg.cc\/Mxs6dwKG\/SADA.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Mxs6dwKG\/SADA.png"
+  },
+  {
+    "id": "0e03b5f8-e72",
+    "name": "QURAN HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309037",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "f4360eb1-023",
+    "name": "SOZ HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309038",
+    "logo": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/xfDMt1tB\/SOZ.png"
+  },
+  {
+    "id": "ce7f67c2-1c5",
+    "name": "SUNNAT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309143",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5ea9c5df-160",
+    "name": "AZADI TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309311",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5276432a-8e4",
+    "name": "MAJD QURAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/284670",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "06e6096d-184",
+    "name": "ZAD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/284704",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "1723a298-5b9",
+    "name": "SUNNAT ALNABAWI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/284672",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "32cda28e-c95",
+    "name": "MAKKA LIVE",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/284671",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/quan-karim.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/quan-karim.png"
+  },
+  {
+    "id": "3759cf90-d02",
+    "name": "MBC PERSIAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308876",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "16cbe705-456",
+    "name": "MBC",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/99850",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc1.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc1.jpg?v=7"
+  },
+  {
+    "id": "9de66888-e64",
+    "name": "MBC IRAQYA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/14444",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0de7a574-232",
+    "name": "MBC PLUS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/2001",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5a4e6392-943",
+    "name": "MBC MAX",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/29",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "53198e29-c31",
+    "name": "MBC BULYHOOD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/9301",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b75cfe19-541",
+    "name": "MBC ACTION",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308875",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b359d78c-703",
+    "name": "MBC 5",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/28422",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "00140da9-62d",
+    "name": "MBC 4",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/27",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "23f97f76-2bb",
+    "name": "MBC 3",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/47",
+    "logo": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc3.jpg?v=7",
+    "thumbnail": "https:\/\/www.elahmad.ch\/tv\/mobiletv\/images\/mbc3.jpg?v=7"
+  },
+  {
+    "id": "43c8d6f0-8bf",
+    "name": "MBC 2",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308874",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8aa6bce9-3a3",
+    "name": "PARWARDA",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309304",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1783896280603\/PARWARDAY_HAWLER.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1783896280603\/PARWARDAY_HAWLER.png"
+  },
+  {
+    "id": "6d8c8d4d-2cf",
+    "name": "ZAXO",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309268",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c88875ad-814",
+    "name": "XABIR TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309309",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b0ee2b19-bb8",
+    "name": "UTV 2",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309261",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0b47b5da-bcb",
+    "name": "ROZH HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309297",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "49e76c82-079",
+    "name": "RAMAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309293",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "c83b217e-897",
+    "name": "QALAM FAMILY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309275",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5917b9b0-c07",
+    "name": "QALAM AYNI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309272",
+    "logo": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png"
+  },
+  {
+    "id": "4586b83c-b0f",
+    "name": "QALAM GEO",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309271",
+    "logo": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/T23RyBnS\/QALAM.png"
+  },
+  {
+    "id": "0f286cd1-27e",
+    "name": "PELISTANK",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309301",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9d968078-fba",
+    "name": "QURAN TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309302",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b0c26af2-a15",
+    "name": "MIHRAB TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309280",
+    "logo": "https:\/\/i.postimg.cc\/y1r0XkCp\/minara.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/y1r0XkCp\/minara.png"
+  },
+  {
+    "id": "f5162c4d-fa1",
+    "name": "KOMAL RAPARIN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309270",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "6fd25a79-8a7",
+    "name": "JAMAWAR TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309294",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4d546195-6cc",
+    "name": "PESHMARGE",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309290",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d0474fd5-b7b",
+    "name": "DERWAZE HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309281",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/daerwaza.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/daerwaza.png"
+  },
+  {
+    "id": "c8fac861-d5e",
+    "name": "DELAL TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309310",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/delal-tv.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/delal-tv.png"
+  },
+  {
+    "id": "fe493d61-c0d",
+    "name": "BABOLI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309262",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2023\/05\/babolly.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2023\/05\/babolly.png"
+  },
+  {
+    "id": "a8f27e7f-f74",
+    "name": "ASMAN TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/106148",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "bb73225a-07c",
+    "name": "SORAN ENTERTAINMENT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/308255",
+    "logo": "https:\/\/i.postimg.cc\/Y9Tw96J5\/Pics-Art-25-08-01-16-59-38-543.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Y9Tw96J5\/Pics-Art-25-08-01-16-59-38-543.png"
+  },
+  {
+    "id": "b21e2807-605",
+    "name": "SRUSHT TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/300607",
+    "logo": "https:\/\/i.postimg.cc\/hgh3tf3r\/SRUSHT.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/hgh3tf3r\/SRUSHT.png"
+  },
+  {
+    "id": "013f1e01-813",
+    "name": "UTV HAWLER",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/106145",
+    "logo": "https:\/\/utvhawler.net\/images\/logo.png",
+    "thumbnail": "https:\/\/utvhawler.net\/images\/logo.png"
+  },
+  {
+    "id": "8feae0b5-a07",
+    "name": "AMOZHGARY HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309330",
+    "logo": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/jR7GsS7B\/amojgari.png"
+  },
+  {
+    "id": "9c54eeda-28b",
+    "name": "JUDI",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/106146",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "4eeaa471-901",
+    "name": "SPI TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307114",
+    "logo": "https:\/\/i.ibb.co\/21tzYY6j\/WORLD-TV-PLUS-SPI-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/21tzYY6j\/WORLD-TV-PLUS-SPI-TV.jpg"
+  },
+  {
+    "id": "64fcc6fb-278",
+    "name": "BARIN QURAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307942",
+    "logo": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg",
+    "thumbnail": "https:\/\/i.ibb.co\/8g9zMNnB\/WORLD-TV-PLUS-BARIN-TV.jpg"
+  },
+  {
+    "id": "b785806b-226",
+    "name": "ONE KIDS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309334",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1788472849160\/sazan_logo_45548.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1788472849160\/sazan_logo_45548.png"
+  },
+  {
+    "id": "5f51b926-0d6",
+    "name": "BASK HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307979",
+    "logo": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/CxFf6zdt\/photo-2026-02-16-06-41-54.jpg"
+  },
+  {
+    "id": "6f9b90f3-28d",
+    "name": "RANYA SITY",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/309094",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "bcb1afab-aec",
+    "name": "KURD MOVIE HD",
+    "category": "FAMILY",
+    "url": "http:\/\/line.trxdnscloud.ru\/live\/1naebx0n1p\/en1cy28eqj\/324617.ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "868678a6-234",
+    "name": "IMK HD",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/307980",
+    "logo": "https:\/\/i.postimg.cc\/JRsFBRdb\/IMK.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/JRsFBRdb\/IMK.png"
+  },
+  {
+    "id": "063e6213-204",
+    "name": "K24",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/1160",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s"
+  },
+  {
+    "id": "9f637f3c-7ae",
+    "name": "KURDSAT TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/4",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b0201f7c-ba3",
+    "name": "KURDSAT NEWS",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/1",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl3j_g3H9TsH22SoBtZcMkRyspRxPJ6NR8hd0hJsLhlA&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl3j_g3H9TsH22SoBtZcMkRyspRxPJ6NR8hd0hJsLhlA&s=10"
+  },
+  {
+    "id": "79643ba5-185",
+    "name": "KURDISTAN TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/21",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQoOl3Vei2ZlXLV9wabf6D695LYqglHO0fRXXdg-m26MQ&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQoOl3Vei2ZlXLV9wabf6D695LYqglHO0fRXXdg-m26MQ&s=10"
+  },
+  {
+    "id": "15885168-eaa",
+    "name": "KIRKUK TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/204",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQg_LynayhAQ77VE4BcNJUhaScjIO5iEsC03eGlQflXUw&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQg_LynayhAQ77VE4BcNJUhaScjIO5iEsC03eGlQflXUw&s=10"
+  },
+  {
+    "id": "d93523ab-d8c",
+    "name": "GALI KURDISTAN",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/13455",
+    "logo": "https:\/\/www.gksat.tv\/images\/logo.png",
+    "thumbnail": "https:\/\/www.gksat.tv\/images\/logo.png"
+  },
+  {
+    "id": "2cf0af77-3d5",
+    "name": "ZAGROS TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/10",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRrJo07oIYLJ0sG1hPkt9gU-ccxbrH_xbXKUlQvzmOMcg&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRrJo07oIYLJ0sG1hPkt9gU-ccxbrH_xbXKUlQvzmOMcg&s=10"
+  },
+  {
+    "id": "f258cef8-988",
+    "name": "PAYAM TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/2564",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2020\/06\/payam-tv-e1591222452158-800x800.jpg",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2020\/06\/payam-tv-e1591222452158-800x800.jpg"
+  },
+  {
+    "id": "0d625be4-ad8",
+    "name": "SPEDA TV",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/217",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1786207917673\/SPEDATV.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1786207917673\/SPEDATV.png"
+  },
+  {
+    "id": "2ba46c90-ca9",
+    "name": "RUDAW",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/3",
+    "logo": "https:\/\/photos.smugmug.com\/Rudaw-logo\/i-7WVWZvk\/0\/7757f044\/M\/unnamed-M.png",
+    "thumbnail": "https:\/\/photos.smugmug.com\/Rudaw-logo\/i-7WVWZvk\/0\/7757f044\/M\/unnamed-M.png"
+  },
+  {
+    "id": "2e23aa71-347",
+    "name": "NRT",
+    "category": "FAMILY",
+    "url": "http:\/\/familyku.me:2095\/291142475920\/16275591516967bdb3a0578\/8",
+    "logo": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/nrt-1.png",
+    "thumbnail": "https:\/\/mixmedia.tv\/wp-content\/uploads\/2022\/08\/nrt-1.png"
+  },
+  {
+    "id": "367444c4-60b",
+    "name": "BEIN 4K",
+    "category": "KRD Sport",
+    "url": "http:\/\/ntr.paixif.com\/live\/MAG29K2TLLC\/8ZM4QHUD\/1425814.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "89a58e89-8f5",
+    "name": "BEIN NEWS HD",
+    "category": "KRD Sport",
+    "url": "http:\/\/pro.netmos.ovh:7355\/live\/MMTVO89S7DY7CNV7SD\/P7HIDSPCN580WXH90\/166015.ts?secure=MTc4NTMzMjkxMQ==",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "660857d7-f66",
+    "name": "PREMER SPORT 1",
+    "category": "KRD Sport",
+    "url": "http:\/\/line.tiger-ott.net\/live\/3S71NY\/EP2CHD\/833946.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8ab56ab9-823",
+    "name": "BEIN SPORTS",
+    "category": "KRD Sport",
+    "url": "http:\/\/line.tiger-ott.net\/live\/3S71NY\/EP2CHD\/894995.m3u8",
+    "logo": "http:\/\/picon.tivi-ott.net:25461\/picon\/UK\/UK%20BEIN%20SPORTS\/BEIN%20SPORTS%201.png",
+    "thumbnail": "http:\/\/picon.tivi-ott.net:25461\/picon\/UK\/UK%20BEIN%20SPORTS\/BEIN%20SPORTS%201.png"
+  },
+  {
+    "id": "0483c811-253",
+    "name": "SPACETOON",
+    "category": "Kids",
+    "url": "https:\/\/live-uae-next.spacetoongo.com\/ST_MENA_NEXT\/hls\/ST_MENA_NEXT_720p.m3u8?pkg_media=video&pkg_alone=1&pkg_hm=r9p2hjipmw2kl.m3u8&pkg_svc=1&pkg_vcodec=avc1",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "11a6bb58-e87",
+    "name": "عدنان و لینا",
+    "category": "Kids",
+    "url": "https:\/\/vsd123.okcdn.ru\/hls\/18051210873530.m3u8\/sig\/fOrC-h4v18g\/expires\/1785876581912\/srcIp\/212.237.121.45\/urls\/95.163.35.107\/clientType\/0\/srcAg\/CHROME_ANDROID\/mid\/16480253910714\/video.m3u8?p",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "ea9d9841-09a",
+    "name": "MR BEAN",
+    "category": "Kids",
+    "url": "https:\/\/amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv\/ts-eu-w1-n2\/playlist\/amg00627-banijayfast-mrbeanfrcc-rakutenfr\/cb543e1f796c678d9dd43e64d1ef44a5f9591fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c515677b000ce0d4187822fcf0466074e30859db17cc79a1419aaa3774e57cf660e0da75540c0520671d2e65348a635a7760816a7583d017cddf359b37642b8df58d2237c9bce8c37683f03409a5e5afba358b1ebe30e408d3da3e01d559d794de79f43c8821da688d75bcc5ed074a346959bf68d861680d0f33593698af1ee3e581fb0b13bf7e04fb7cbe80653fe501b36d5d17bc1e99a6f2f8f463937904942da179a36dc8b2c8d2258d3b5112af652ab59d06c82f34ca9a1f1bf1002512ca32abb9d4a78a5fdd9154a0e4bf9d2d1bc555cd39a356b4ec822fa232c3094fccf2e66a27f999b2c9fbd6511398fc40bcbddfaafe6be9852c765ebc9f08a324b4a235552dd1d89d32dfa39cd74adf91623774450e2cf0693c88a08702a64aeb473f85f5bb5d280869f293ec96b1413a843d1490a61c97b3d2fb263a9d46c22d966278a3734f75d75b343fab93efce88eb65175e688b52f9508cebb0ec0f90bad1f5e0852c992263c14152f308ffee594caa570fe298c0577578e0211e46dd0e371e4\/192\/1280x720_3329040\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "011a4e16-694",
+    "name": "ROZHELAT TV",
+    "category": "KRD News",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/ROJHELAT\/HLS\/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8",
+    "logo": "https:\/\/www.rojhelat.media\/wp-content\/uploads\/2026\/01\/logo-mob-2.png",
+    "thumbnail": "https:\/\/www.rojhelat.media\/wp-content\/uploads\/2026\/01\/logo-mob-2.png"
+  },
+  {
+    "id": "a5fee212-eae",
+    "name": "film",
+    "category": "5",
+    "url": "https:\/\/main.vstreamer.store\/13631.mp4",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b75a4482-13b",
+    "name": "Stream 10 - Mono Playlist",
+    "category": "KRD Sport",
+    "url": "http:\/\/195.201.243.254\/stream10\/mono.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "364693a3-66a",
+    "name": "Stream 10 - Index Master",
+    "category": "KRD Sport",
+    "url": "http:\/\/195.201.243.254\/stream10\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9485fb21-64d",
+    "name": "rudaw tv (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/live.rudaw.net\/hls\/rudaw-tv\/master.m3u8",
+    "logo": "https:\/\/i.imgur.com\/Zo3IWOn.png",
+    "thumbnail": "https:\/\/i.imgur.com\/Zo3IWOn.png"
+  },
+  {
+    "id": "f1cec37c-501",
+    "name": "channel 8 kurdish (720p)",
+    "category": "HARON",
+    "url": "https:\/\/live.channel8.com\/Channel8-Kurdish\/index.fmp4.m3u8",
+    "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/40\/Channel8corp.png\/960px-Channel8corp.png",
+    "thumbnail": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/40\/Channel8corp.png\/960px-Channel8corp.png"
+  },
+  {
+    "id": "69e8c1bc-40d",
+    "name": "nrt tv (720p) [not 24\/7]",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/NRT_HD\/HLS\/NRT_HD.m3u8",
+    "logo": "https:\/\/i.imgur.com\/uGKGtbW.png",
+    "thumbnail": "https:\/\/i.imgur.com\/uGKGtbW.png"
+  },
+  {
+    "id": "480a3fa4-c8a",
+    "name": "Kurdistan 24 (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/K24\/HLS\/K24.m3u8",
+    "logo": "https:\/\/i.imgur.com\/9QWs2ms.png",
+    "thumbnail": "https:\/\/i.imgur.com\/9QWs2ms.png"
+  },
+  {
+    "id": "27be8e61-87a",
+    "name": "kurdstan tv (720p) [not 24\/7]",
+    "category": "HARON",
+    "url": "https:\/\/5a3ed7a72ed4b.streamlock.net\/live\/SMIL:myStream.smil\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/mjQptpc.png",
+    "thumbnail": "https:\/\/i.imgur.com\/mjQptpc.png"
+  },
+  {
+    "id": "4b967d8d-6d9",
+    "name": "ava",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/AVA_TV\/HLS\/AVA_TV.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/Y9MCZ4cj\/Ava-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/Y9MCZ4cj\/Ava-200.jpg"
+  },
+  {
+    "id": "f75abd4f-9b1",
+    "name": "waar tv (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/live.kwikmotion.com\/waarmedialive\/waarmedia.smil\/waarmediapublish\/waarmedia_source\/chunks.m3u8",
+    "logo": "https:\/\/i.imgur.com\/rK0y02d.png",
+    "thumbnail": "https:\/\/i.imgur.com\/rK0y02d.png"
+  },
+  {
+    "id": "583b60d9-a51",
+    "name": "mixkurdy (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/avr.host247.net\/live\/Mix-kurdy\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/WHeH5i7.png",
+    "thumbnail": "https:\/\/i.imgur.com\/WHeH5i7.png"
+  },
+  {
+    "id": "5731d71c-a35",
+    "name": "avar tv (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/avr.host247.net\/live\/AvarTv\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/JazFBkW.jpeg",
+    "thumbnail": "https:\/\/i.imgur.com\/JazFBkW.jpeg"
+  },
+  {
+    "id": "b7b74186-d75",
+    "name": "soran entertainment",
+    "category": "HARON",
+    "url": "http:\/\/avrstream.com:1935\/live\/SoranEntertainment\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/hvvhPYMx\/Soran-Entertaintment-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/hvvhPYMx\/Soran-Entertaintment-200.jpg"
+  },
+  {
+    "id": "9877b95c-3b9",
+    "name": "kurdsat news (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/KURDSAT_NEWS\/HLS\/KURDSAT_NEWS.m3u8",
+    "logo": "https:\/\/i.imgur.com\/F3XRwkt.png",
+    "thumbnail": "https:\/\/i.imgur.com\/F3XRwkt.png"
+  },
+  {
+    "id": "3c47848c-2e9",
+    "name": "halabja",
+    "category": "HARON",
+    "url": "http:\/\/halabjatv.ddns.net:40\/live\/halabjatv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/L81sTGF3\/Halabja-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/L81sTGF3\/Halabja-200.jpg"
+  },
+  {
+    "id": "0b5502e2-177",
+    "name": "derin",
+    "category": "HARON",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/Derin\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/85mjzRdh\/Derin-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/85mjzRdh\/Derin-200.jpg"
+  },
+  {
+    "id": "8ade5b48-140",
+    "name": "euro kurd",
+    "category": "HARON",
+    "url": "http:\/\/eurokurd.mymediapc.net:40\/live\/Eurokurd\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/xj6X8Yjq\/Eru-Kurd-200.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/xj6X8Yjq\/Eru-Kurd-200.png"
+  },
+  {
+    "id": "3d3098bc-a3c",
+    "name": "kurd channel",
+    "category": "HARON",
+    "url": "https:\/\/4kuhls.persiana.live\/hls\/stream.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/26ztX34j\/music4-200.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/26ztX34j\/music4-200.png"
+  },
+  {
+    "id": "c1cbec11-0f7",
+    "name": "med muzik (1080p)",
+    "category": "HARON",
+    "url": "http:\/\/54.36.110.140\/live3\/live3.m3u8",
+    "logo": "https:\/\/i.imgur.com\/gtUFmCD.png",
+    "thumbnail": "https:\/\/i.imgur.com\/gtUFmCD.png"
+  },
+  {
+    "id": "3a239367-d2b",
+    "name": "mmn news",
+    "category": "HARON",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdclip\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/sDjskD4L\/MMN-music-200.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/sDjskD4L\/MMN-music-200.png"
+  },
+  {
+    "id": "3b0dfb20-9ac",
+    "name": "mmn ducumetary",
+    "category": "HARON",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhddocumentary\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/SNdB0bbj\/MMN-Documentary.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/SNdB0bbj\/MMN-Documentary.png"
+  },
+  {
+    "id": "f643575e-fc6",
+    "name": "mmn movies",
+    "category": "HARON",
+    "url": "http:\/\/mmn.mypsx.net:1935\/live\/mmnhdaction\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/6qDnghgD\/MMN-Movies-200.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/6qDnghgD\/MMN-Movies-200.png"
+  },
+  {
+    "id": "f22d9962-745",
+    "name": "kurd channel",
+    "category": "HARON",
+    "url": "https:\/\/kurdchhls.wns.live\/hls\/stream.m3u8",
+    "logo": "https:\/\/i.imgur.com\/xPwzad9.png",
+    "thumbnail": "https:\/\/i.imgur.com\/xPwzad9.png"
+  },
+  {
+    "id": "305df850-317",
+    "name": "shna tv",
+    "category": "HARON",
+    "url": "http:\/\/shnatv.ddns.net:1935\/live\/shnatv\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/26b0p54R\/Shna-tv-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/26b0p54R\/Shna-tv-200.jpg"
+  },
+  {
+    "id": "c75195fe-24e",
+    "name": "shar tv",
+    "category": "HARON",
+    "url": "http:\/\/avrstream.com:1935\/live\/SHARTV\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/t4sZNVyj\/Shar-tv-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/t4sZNVyj\/Shar-tv-200.jpg"
+  },
+  {
+    "id": "3b0d4298-08a",
+    "name": "qellat",
+    "category": "HARON",
+    "url": "https:\/\/video3-cdn-hippo-prod-transcoding.hippovideo.io\/transcoding\/1856828\/1766288\/45334875\/360p\/45334875_360p.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/43FWFcHQ\/Qellat-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/43FWFcHQ\/Qellat-200.jpg"
+  },
+  {
+    "id": "a164401c-ff9",
+    "name": "Ronahi TV (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/RONAHI_TV\/HLS\/RONAHI_TV.m3u8",
+    "logo": "https:\/\/i.imgur.com\/JSvJpD8.png",
+    "thumbnail": "https:\/\/i.imgur.com\/JSvJpD8.png"
+  },
+  {
+    "id": "012c9d3c-951",
+    "name": "Jin TV",
+    "category": "HARON",
+    "url": "https:\/\/live.jintv.org\/medialive\/jintv.m3u8",
+    "logo": "https:\/\/i.imgur.com\/37ajg2j.png",
+    "thumbnail": "https:\/\/i.imgur.com\/37ajg2j.png"
+  },
+  {
+    "id": "7c948710-c5b",
+    "name": "Al Iraqia Kurdish (720p)",
+    "category": "HARON",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-kurdish.m3u8",
+    "logo": "https:\/\/gateway.esite-lab.com\/file-storage\/api\/v1\/public\/uploads\/2025\/3\/8\/7a8a2548d8e5850e87066d2e573796189.png",
+    "thumbnail": "https:\/\/gateway.esite-lab.com\/file-storage\/api\/v1\/public\/uploads\/2025\/3\/8\/7a8a2548d8e5850e87066d2e573796189.png"
+  },
+  {
+    "id": "15ddcd0b-ac9",
+    "name": "Rojava TV (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/ROJAVA_HD\/HLS\/ROJAVA_HD.m3u8",
+    "logo": "https:\/\/i.imgur.com\/42noysO.png",
+    "thumbnail": "https:\/\/i.imgur.com\/42noysO.png"
+  },
+  {
+    "id": "9c247833-fd1",
+    "name": "Komala TV",
+    "category": "HARON",
+    "url": "https:\/\/komhls.wns.live\/hls\/stream.m3u8",
+    "logo": "https:\/\/i.imgur.com\/D6KBLB8.png",
+    "thumbnail": "https:\/\/i.imgur.com\/D6KBLB8.png"
+  },
+  {
+    "id": "7013d470-e4d",
+    "name": "trt kurdî (720p)",
+    "category": "HARON",
+    "url": "https:\/\/tv-trtkurdi.medya.trt.com.tr\/master.m3u8",
+    "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/79\/TRT_Kurd%C3%AE_logo.svg\/960px-TRT_Kurd%C3%AE_logo.svg.png",
+    "thumbnail": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/79\/TRT_Kurd%C3%AE_logo.svg\/960px-TRT_Kurd%C3%AE_logo.svg.png"
+  },
+  {
+    "id": "6c8d8c93-19b",
+    "name": "Sterk TV (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/STERK_TV\/HLS\/STERK_TV.m3u8",
+    "logo": "https:\/\/i.imgur.com\/bIheNAI.png",
+    "thumbnail": "https:\/\/i.imgur.com\/bIheNAI.png"
+  },
+  {
+    "id": "186da745-3e6",
+    "name": "Afarin Baxcha (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/5dcabf026b188.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/4xRkBDRx\/Afarin-Baxcha-200.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/4xRkBDRx\/Afarin-Baxcha-200.png"
+  },
+  {
+    "id": "47a8ca95-f78",
+    "name": "Afarin TV (720p) [Not 24\/7]",
+    "category": "HARON",
+    "url": "https:\/\/65f16f0fdfc51.streamlock.net\/afarinTV\/livestream\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/6MnXD7g.png",
+    "thumbnail": "https:\/\/i.imgur.com\/6MnXD7g.png"
+  },
+  {
+    "id": "fb8a67ee-3c8",
+    "name": "zarok sorani",
+    "category": "HARON",
+    "url": "https:\/\/zindisorani.zaroktv.com.tr\/hls\/stream.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/g0fvZH6Q\/Zarok-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/g0fvZH6Q\/Zarok-200.jpg"
+  },
+  {
+    "id": "d1264d37-103",
+    "name": "zarok kurmanji",
+    "category": "HARON",
+    "url": "https:\/\/zindikurmanci.zaroktv.com.tr\/hls\/0\/stream.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/g0fvZH6Q\/Zarok-200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/g0fvZH6Q\/Zarok-200.jpg"
+  },
+  {
+    "id": "ef478ae4-317",
+    "name": "payam",
+    "category": "HARON",
+    "url": "https:\/\/media2.streambrothers.com:1936\/8218\/8218\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/MpBZG0qv\/Payam_tv_200.jpg",
+    "thumbnail": "https:\/\/i.postimg.cc\/MpBZG0qv\/Payam_tv_200.jpg"
+  },
+  {
+    "id": "a8945161-57e",
+    "name": "farmodatv (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/avr.host247.net\/live\/FarmodaTV\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/x4KCQlH.png",
+    "thumbnail": "https:\/\/i.imgur.com\/x4KCQlH.png"
+  },
+  {
+    "id": "3b698c4e-879",
+    "name": "mihrab tv",
+    "category": "HARON",
+    "url": "http:\/\/baskhd.ddns.net:40\/live\/MihrabTV\/playlist.m3u8",
+    "logo": "https:\/\/i.postimg.cc\/Kz8yttS7\/Mihrab-200.png",
+    "thumbnail": "https:\/\/i.postimg.cc\/Kz8yttS7\/Mihrab-200.png"
+  },
+  {
+    "id": "428a93e8-b02",
+    "name": "Amozhgary TV",
+    "category": "HARON",
+    "url": "https:\/\/app-live.org\/live\/3268334b\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/sseqFsO.png",
+    "thumbnail": "https:\/\/i.imgur.com\/sseqFsO.png"
+  },
+  {
+    "id": "0ed80933-675",
+    "name": "zagros (720p) [not 24\/7]",
+    "category": "HARON",
+    "url": "https:\/\/5a3ed7a72ed4b.streamlock.net\/zagrostv\/SMIL:myStream.smil\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/9Mspf32.png",
+    "thumbnail": "https:\/\/i.imgur.com\/9Mspf32.png"
+  },
+  {
+    "id": "685efd60-28b",
+    "name": "shams tv (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/stream.shams.tv\/hls\/stream.m3u8",
+    "logo": "https:\/\/www.semakurd.net\/sites\/default\/files\/imagecache\/400xY\/shemis-tv.jpg",
+    "thumbnail": "https:\/\/www.semakurd.net\/sites\/default\/files\/imagecache\/400xY\/shemis-tv.jpg"
+  },
+  {
+    "id": "346b029d-a7e",
+    "name": "haron1971",
+    "category": "HARON",
+    "url": "https:\/\/video3-cdn-hippo-prod-transcoding.hippovideo.io\/transcoding\/1856828\/1766288\/45334875\/360p\/45334875_360p.m3u8",
+    "logo": "https:\/\/2.gravatar.com\/userimage\/281327746\/09e91c8f9566b085711aa09a8e403b7c?size=256&axis=min",
+    "thumbnail": "https:\/\/2.gravatar.com\/userimage\/281327746\/09e91c8f9566b085711aa09a8e403b7c?size=256&axis=min"
+  },
+  {
+    "id": "c561e028-915",
+    "name": "haron1971",
+    "category": "HARON",
+    "url": "https:\/\/video3-cdn-hippo-prod-transcoding.hippovideo.io\/transcoding\/1856828\/1766288\/45334875\/360p\/45334875_360p.m3u8",
+    "logo": "https:\/\/2.gravatar.com\/userimage\/281327746\/09e91c8f9566b085711aa09a8e403b7c?size=256&axis=min",
+    "thumbnail": "https:\/\/2.gravatar.com\/userimage\/281327746\/09e91c8f9566b085711aa09a8e403b7c?size=256&axis=min"
+  },
+  {
+    "id": "08e0c756-ec6",
+    "name": "al hadath (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-hadath\/2ff87ec4c2f3ede35295a20637d9f8fd\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/De4SEWE.png",
+    "thumbnail": "https:\/\/i.imgur.com\/De4SEWE.png"
+  },
+  {
+    "id": "e350fed3-70d",
+    "name": "bbc arabic (720p)",
+    "category": "HARON",
+    "url": "https:\/\/vs-cmaf-pushb-ww-live.akamaized.net\/x=4\/i=urn:bbc:pips:service:bbc_arabic_tv\/pc_hd_abr_v2.mpd",
+    "logo": "https:\/\/i.imgur.com\/ScyTG6P.png",
+    "thumbnail": "https:\/\/i.imgur.com\/ScyTG6P.png"
+  },
+  {
+    "id": "a39afd45-56f",
+    "name": "sky news arabia (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/live-stream.skynewsarabia.com\/c-horizontal-channel\/horizontal-stream\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/SvjU4h6.png",
+    "thumbnail": "https:\/\/i.imgur.com\/SvjU4h6.png"
+  },
+  {
+    "id": "3b734920-c60",
+    "name": "rt arabic (1080p) [geo-blocked]",
+    "category": "HARON",
+    "url": "https:\/\/rt-arb.rttv.com\/dvr\/rtarab\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/G8vGrn1.png",
+    "thumbnail": "https:\/\/i.imgur.com\/G8vGrn1.png"
+  },
+  {
+    "id": "65bc95ac-767",
+    "name": "Al Iraqia News (720p)",
+    "category": "HARON",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-news.m3u8",
+    "logo": "https:\/\/i.imgur.com\/feQTXeZ.jpg",
+    "thumbnail": "https:\/\/i.imgur.com\/feQTXeZ.jpg"
+  },
+  {
+    "id": "0cc5e130-256",
+    "name": "al-sharqiya news (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/5d94523502c2d.streamlock.net\/alsharqiyalive\/mystream\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/PeAcXB9.png",
+    "thumbnail": "https:\/\/i.imgur.com\/PeAcXB9.png"
+  },
+  {
+    "id": "0d189016-8e6",
+    "name": "Al-Sharqiya (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/5d94523502c2d.streamlock.net\/home\/mystream\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/mJIG5IV.png",
+    "thumbnail": "https:\/\/i.imgur.com\/mJIG5IV.png"
+  },
+  {
+    "id": "85facd34-24d",
+    "name": "Al Iraqia (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-general.m3u8",
+    "logo": "https:\/\/i.imgur.com\/8qQouTW.jpg",
+    "thumbnail": "https:\/\/i.imgur.com\/8qQouTW.jpg"
+  },
+  {
+    "id": "4010299a-a26",
+    "name": "mbc iraq (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-iraq\/e38c44b1b43474e1c39cb5b90203691e\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/D0LxiPE.png",
+    "thumbnail": "https:\/\/i.imgur.com\/D0LxiPE.png"
+  },
+  {
+    "id": "c321ca16-38e",
+    "name": "mbc 1 (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-1\/15cf99af5de54063fdabfefe66adc075\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/CiA3plN.png",
+    "thumbnail": "https:\/\/i.imgur.com\/CiA3plN.png"
+  },
+  {
+    "id": "50d7bb52-031",
+    "name": "mbc 1 usa (1080p) [geo-blocked]",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-1-usa\/fdac3a4fc0473f1f56e07ec1d63a4b7b\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/CiA3plN.png",
+    "thumbnail": "https:\/\/i.imgur.com\/CiA3plN.png"
+  },
+  {
+    "id": "aee8e380-487",
+    "name": "mbc masr (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-masr\/956eac069c78a35d47245db6cdbb1575\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/o2elx0u.png",
+    "thumbnail": "https:\/\/i.imgur.com\/o2elx0u.png"
+  },
+  {
+    "id": "6e5dcbbb-65a",
+    "name": "mbc masr 2 (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-masr-2\/754931856515075b0aabf0e583495c68\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/KHo7Gtn.png",
+    "thumbnail": "https:\/\/i.imgur.com\/KHo7Gtn.png"
+  },
+  {
+    "id": "16b096ef-b8f",
+    "name": "mbc drama usa (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-drama-usa\/ea2f5db904aff224b7066e59c7f585a2\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/g5PWnqp.png",
+    "thumbnail": "https:\/\/i.imgur.com\/g5PWnqp.png"
+  },
+  {
+    "id": "2df27602-c3e",
+    "name": "mbc 5 (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-gcp-live.edgenextcdn.net\/live\/bitmovin-mbc-5\/ee6b000cee0629411b666ab26cb13e9b\/index.m3u8",
+    "logo": "https:\/\/i.imgur.com\/fRWaDyF.png",
+    "thumbnail": "https:\/\/i.imgur.com\/fRWaDyF.png"
+  },
+  {
+    "id": "1ca8aa35-f72",
+    "name": "Aflam (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-amg-fast.edgenextcdn.net\/tx001\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/cTLj7Yt.png",
+    "thumbnail": "https:\/\/i.imgur.com\/cTLj7Yt.png"
+  },
+  {
+    "id": "deca58b4-7a0",
+    "name": "Movies Thriller (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-amg-fast.edgenextcdn.net\/tx012\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/JWihdcl.png",
+    "thumbnail": "https:\/\/i.imgur.com\/JWihdcl.png"
+  },
+  {
+    "id": "b5dde936-bc0",
+    "name": "Movies Action (1080p)",
+    "category": "HARON",
+    "url": "https:\/\/shd-amg-fast.edgenextcdn.net\/tx011\/playlist.m3u8",
+    "logo": "https:\/\/i.imgur.com\/NIVhISa.png",
+    "thumbnail": "https:\/\/i.imgur.com\/NIVhISa.png"
+  },
+  {
+    "id": "f5d0891c-bfd",
+    "name": "Mbc Max AE",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/F5BM9GXMAPYBDK\/15195\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/5673.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/5673.png"
+  },
+  {
+    "id": "918409bd-dad",
+    "name": "Mbc Action AE",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/F5BM9GXMAPYBDK\/15197\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/5675.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/5675.png"
+  },
+  {
+    "id": "5bde7c31-528",
+    "name": "MBC 2 SD AE",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/F5BM9GXMAPYBDK\/15198\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/5676.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/5676.png"
+  },
+  {
+    "id": "dd7f7b1c-fad",
+    "name": "MBC 4 AE",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/F5BM9GXMAPYBDK\/15199\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/5677.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/5677.png"
+  },
+  {
+    "id": "afa243ff-911",
+    "name": "National Geographic Abu Dhabi AE",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/F5BM9GXMAPYBDK\/15200\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/5678.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/5678.png"
+  },
+  {
+    "id": "b34c0ec8-b88",
+    "name": "Al Iraqia Sport (720p)",
+    "category": "HARON",
+    "url": "https:\/\/imn-live.esite-lab.com\/hls\/iraqia-sports-1.m3u8",
+    "logo": "https:\/\/i.imgur.com\/DrrlxTO.png",
+    "thumbnail": "https:\/\/i.imgur.com\/DrrlxTO.png"
+  },
+  {
+    "id": "2393e4b0-a50",
+    "name": "persiana sports 2",
+    "category": "HARON",
+    "url": "https:\/\/pepsi.abntv.live\/hls\/4spstream.m3u8",
+    "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/pp\/persiana-sports-fr.png",
+    "thumbnail": "https:\/\/www.lyngsat.com\/logo\/tv\/pp\/persiana-sports-fr.png"
+  },
+  {
+    "id": "a4dadb7a-ae5",
+    "name": "persiana sports 3",
+    "category": "HARON",
+    "url": "https:\/\/pepsi3.abntv.live\/hls\/psp3.m3u8",
+    "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/pp\/persiana-sports-fr.png",
+    "thumbnail": "https:\/\/www.lyngsat.com\/logo\/tv\/pp\/persiana-sports-fr.png"
+  },
+  {
+    "id": "46023ab9-3ab",
+    "name": "persiana sports  4",
+    "category": "HARON",
+    "url": "https:\/\/pepsi4.abntv.live\/hls\/psp4.m3u8",
+    "logo": "https:\/\/www.lyngsat.com\/logo\/tv\/pp\/persiana-sports-fr.png",
+    "thumbnail": "https:\/\/www.lyngsat.com\/logo\/tv\/pp\/persiana-sports-fr.png"
+  },
+  {
+    "id": "f044fab5-b86",
+    "name": "beIN Sports 1 HD FR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2499\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2884.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2884.png"
+  },
+  {
+    "id": "9eeea114-c68",
+    "name": "beIN Sports 2 HD FR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2500\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2885.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2885.png"
+  },
+  {
+    "id": "a9f53961-cb1",
+    "name": "beIN Sports 3 HD FR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2501\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2886.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2886.png"
+  },
+  {
+    "id": "ad406232-645",
+    "name": "beIN Sports 1 HD QA",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6123\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3047.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3047.png"
+  },
+  {
+    "id": "654a3800-579",
+    "name": "beIN Sports 3 HD QA",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6124\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3048.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3048.png"
+  },
+  {
+    "id": "1ad0c474-c0d",
+    "name": "beIN Sports 4 HD QA",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6125\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3049.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3049.png"
+  },
+  {
+    "id": "fae73a5f-90b",
+    "name": "beIN Sports 5 HD QA",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6126\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3050.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3050.png"
+  },
+  {
+    "id": "ea722061-9f9",
+    "name": "beIN Sports 6 HD QA",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6127\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3051.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3051.png"
+  },
+  {
+    "id": "cac0ffd3-f17",
+    "name": "beIN Sports 7 HD QA",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6128\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3052.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3052.png"
+  },
+  {
+    "id": "0730994a-0ac",
+    "name": "Canal+ Sport HD FR",
+    "category": "HARON",
+    "url": "https:\/\/video3-cdn-hippo-prod-transcoding.hippovideo.io\/transcoding\/1856828\/1766288\/45334875\/360p\/45334875_360p.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2887.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2887.png"
+  },
+  {
+    "id": "a5dbf02d-5ce",
+    "name": "Arena Premium 1 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31599\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9271.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9271.png"
+  },
+  {
+    "id": "504901a3-979",
+    "name": "Arena Premium 2 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31600\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9272.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9272.png"
+  },
+  {
+    "id": "a0a2da00-11c",
+    "name": "Arena Premium 3 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31601\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9273.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9273.png"
+  },
+  {
+    "id": "3a08dafb-9de",
+    "name": "Arena Sport 1 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31602\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9274.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9274.png"
+  },
+  {
+    "id": "e290ba09-ad2",
+    "name": "Arena Sport 3 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31603\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9275.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9275.png"
+  },
+  {
+    "id": "eadedb2e-db3",
+    "name": "Arena Sport 4 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31605\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9277.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9277.png"
+  },
+  {
+    "id": "6cc97f9a-120",
+    "name": "Arena Sport 5 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31606\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9278.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9278.png"
+  },
+  {
+    "id": "a6fce889-aff",
+    "name": "Arena Sport 6 HD RS",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31607\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/9279.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/9279.png"
+  },
+  {
+    "id": "a6c840a3-9ed",
+    "name": "beIN Sports Max 1 FHD TR",
+    "category": "HARON",
+    "url": "https:\/\/video3-cdn-hippo-prod-transcoding.hippovideo.io\/transcoding\/1856828\/1766288\/45334875\/360p\/45334875_360p.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3880.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3880.png"
+  },
+  {
+    "id": "47fa41d9-710",
+    "name": "One HD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2340\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2681.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2681.png"
+  },
+  {
+    "id": "60e0dbeb-a4a",
+    "name": "One 2 IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2373\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2704.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2704.png"
+  },
+  {
+    "id": "bf80497c-2f2",
+    "name": "Sport 1 HD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/12249\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2684.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2684.png"
+  },
+  {
+    "id": "47082c1a-765",
+    "name": "Sport 2 HD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/12250\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2683.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2683.png"
+  },
+  {
+    "id": "5f81bc0b-b8d",
+    "name": "Sport 3 HD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/12251\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2719.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2719.png"
+  },
+  {
+    "id": "4f1125c6-525",
+    "name": "Sport 4 HD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2389\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2720.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2720.png"
+  },
+  {
+    "id": "ce2df085-6ea",
+    "name": "5Sport FHD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2341\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2682.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2682.png"
+  },
+  {
+    "id": "b23bd8a3-40d",
+    "name": "5Sport Live FHD IL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2362\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3993.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3993.png"
+  },
+  {
+    "id": "9f6959c7-7a7",
+    "name": "Sport Klub 1 HD HR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7269\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4536.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4536.png"
+  },
+  {
+    "id": "92605ae8-cb3",
+    "name": "Sport Klub 2 HD HR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7270\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4537.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4537.png"
+  },
+  {
+    "id": "d794775f-0aa",
+    "name": "Sport Klub 3 HD HR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7271\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4538.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4538.png"
+  },
+  {
+    "id": "ed3e5726-61b",
+    "name": "Sport Klub 4 HD HR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7272\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4539.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4539.png"
+  },
+  {
+    "id": "9ac32697-3ca",
+    "name": "Sport Klub 5 HD HR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7273\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4540.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4540.png"
+  },
+  {
+    "id": "45809914-bd4",
+    "name": "Sport Klub 6 HD HR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7274\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4541.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4541.png"
+  },
+  {
+    "id": "952f5bfd-520",
+    "name": "Sport TV 1 FHD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31942\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2909.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2909.png"
+  },
+  {
+    "id": "38234681-789",
+    "name": "Sport TV 2 FHD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31943\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2910.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2910.png"
+  },
+  {
+    "id": "60042464-683",
+    "name": "Sport TV 3 FHD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31944\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2911.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2911.png"
+  },
+  {
+    "id": "262c1b29-339",
+    "name": "Sport TV 4 FHD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31945\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2912.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2912.png"
+  },
+  {
+    "id": "dea8d950-38d",
+    "name": "Sport TV 5 FHD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31946\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2913.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2913.png"
+  },
+  {
+    "id": "6481f4fb-d88",
+    "name": "Sport TV 6 FHD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31947\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/11435.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/11435.png"
+  },
+  {
+    "id": "e5590ddb-264",
+    "name": "DAZN 1 PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31954\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2915.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2915.png"
+  },
+  {
+    "id": "6ae87381-d43",
+    "name": "DAZN 2 HD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31955\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2916.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2916.png"
+  },
+  {
+    "id": "3ceb88fa-db4",
+    "name": "DAZN 3 HD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31956\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2917.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2917.png"
+  },
+  {
+    "id": "7d11853f-641",
+    "name": "DAZN 4 HD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31957\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2918.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2918.png"
+  },
+  {
+    "id": "e334c744-460",
+    "name": "DAZN 5 HD PT",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31958\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2919.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2919.png"
+  },
+  {
+    "id": "5d4f715e-c0e",
+    "name": "Ziggo Sport HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2560\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2944.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2944.png"
+  },
+  {
+    "id": "1e700128-17d",
+    "name": "Ziggo Sport 2 HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2561\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2945.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2945.png"
+  },
+  {
+    "id": "d3946e53-143",
+    "name": "Ziggo Sport 3 HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2559\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2943.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2943.png"
+  },
+  {
+    "id": "1d0091f6-d68",
+    "name": "Eleven Sports 1 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2518\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2902.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2902.png"
+  },
+  {
+    "id": "eecdd397-52c",
+    "name": "Eleven Sports 2 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/2517\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2901.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2901.png"
+  },
+  {
+    "id": "8c916e69-1fd",
+    "name": "Матч! Футбол 1 HD 50",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/10015\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2044.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2044.png"
+  },
+  {
+    "id": "ce0b430b-6c8",
+    "name": "Матч! Футбол 2 HD 50",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/10027\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/1042.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/1042.png"
+  },
+  {
+    "id": "5f6bec9a-1d1",
+    "name": "Матч! Футбол 3 HD 50",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/10016\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/2005.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/2005.png"
+  },
+  {
+    "id": "946a9d68-042",
+    "name": "Polsat Sport Premium 1 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7304\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4550.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4550.png"
+  },
+  {
+    "id": "1e21324c-397",
+    "name": "Polsat Sport Premium 2 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7305\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4551.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4551.png"
+  },
+  {
+    "id": "8272a3d1-295",
+    "name": "Polsat Sport 1 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7296\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4548.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4548.png"
+  },
+  {
+    "id": "7b1499d5-08e",
+    "name": "Polsat Sport 2 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7308\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4556.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4556.png"
+  },
+  {
+    "id": "7ed98963-69a",
+    "name": "Polsat Sport 3 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/7303\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/4549.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/4549.png"
+  },
+  {
+    "id": "09d2481c-1d0",
+    "name": "Canal+ Sport HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6098\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3129.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3129.png"
+  },
+  {
+    "id": "2f003a58-cd1",
+    "name": "Canal+ Sport 2 HD PL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/6099\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/3058.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/3058.png"
+  },
+  {
+    "id": "bfa6018d-095",
+    "name": "Fast Sports 1 HD AM",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/30200\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/11597.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/11597.png"
+  },
+  {
+    "id": "e7b8e83c-106",
+    "name": "Fast Sports 2 HD AM",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/30201\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/11598.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/11598.png"
+  },
+  {
+    "id": "089fcb07-204",
+    "name": "QazSport HD KZ",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/14032\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/7509.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/7509.png"
+  },
+  {
+    "id": "bc029ef7-e0c",
+    "name": "Q League HD KZ",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/20062\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/7236.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/7236.png"
+  },
+  {
+    "id": "dc2a9c93-fc3",
+    "name": "Q Arena HD KZ",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/20061\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/7235.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/7235.png"
+  },
+  {
+    "id": "82d536ae-987",
+    "name": "TRT Spor TR",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/19067\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/6525.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/6525.png"
+  },
+  {
+    "id": "761b9e03-636",
+    "name": "ESPN 1 HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/19201\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/6685.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/6685.png"
+  },
+  {
+    "id": "de55f037-e92",
+    "name": "ESPN 2 HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/19202\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/6686.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/6686.png"
+  },
+  {
+    "id": "0b0aa685-989",
+    "name": "ESPN 3 HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/19203\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/6687.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/6687.png"
+  },
+  {
+    "id": "501a7036-02d",
+    "name": "ESPN 4 HD NL",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/19204\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/6688.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/6688.png"
+  },
+  {
+    "id": "eb62e755-b3c",
+    "name": "W-Sport HD",
+    "category": "HARON",
+    "url": "http:\/\/sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw\/iptv\/S8RUHQNB2GB39E\/31959\/index.m3u8",
+    "logo": "http:\/\/epg.one\/img2\/11440.png",
+    "thumbnail": "http:\/\/epg.one\/img2\/11440.png"
+  },
+  {
+    "id": "0c9af9af-37d",
+    "name": "ONE KIDS",
+    "category": "Kids",
+    "url": "https:\/\/lbgo.bozztv.com\/ssh101\/ssh101\/onekids4k\/chunks.m3u8",
+    "logo": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1788472849160\/sazan_logo_45548.png",
+    "thumbnail": "https:\/\/archive.org\/download\/sazan_logo_gallery_image_1788472849160\/sazan_logo_45548.png"
+  },
+  {
+    "id": "29de0fba-4ff",
+    "name": "LD ANIME",
+    "category": "Kids",
+    "url": "http:\/\/0106262.xyz\/live\/Msu0174\/3568954235\/212799.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b765d0da-08c",
+    "name": "BEIN SPORTS 1",
+    "category": "77",
+    "url": "http:\/\/live.8kultra.org\/live\/774d0fb4d\/c4c0646db\/526292.m3u8",
+    "logo": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg",
+    "thumbnail": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg"
+  },
+  {
+    "id": "f4dc1953-37f",
+    "name": "BEIN SPORTS 2",
+    "category": "77",
+    "url": "http:\/\/live.8kultra.org\/live\/774d0fb4d\/c4c0646db\/526290.m3u8",
+    "logo": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg",
+    "thumbnail": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg"
+  },
+  {
+    "id": "e978eeb6-f62",
+    "name": "AREENA SPORT 1",
+    "category": "LION4K",
+    "url": "http:\/\/line.tiger-ott.net\/live\/3S71NY\/EP2CHD\/559143.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "bc9e3d58-a3f",
+    "name": "matin 1",
+    "category": "5",
+    "url": "http:\/\/2.28.105.20:9999\/play.php?id=alwan3&\/master.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9c1893f1-e12",
+    "name": "k24",
+    "category": "5",
+    "url": "https:\/\/hlspackager.akamaized.net\/live\/DB\/K24\/HLS\/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s"
+  },
+  {
+    "id": "e08f4dea-14b",
+    "name": "SPEDA SAIT",
+    "category": "KRD News",
+    "url": "https:\/\/speda1.site\/upload\/images\/spedahd.m3u8",
+    "logo": "https:\/\/www.speda.net\/logo\/speda.png",
+    "thumbnail": "https:\/\/www.speda.net\/logo\/speda.png"
+  },
+  {
+    "id": "2721bfa7-24e",
+    "name": "SPEDA DRAMA SITE",
+    "category": "KRD News",
+    "url": "https:\/\/speda2.site\/upload\/images\/spedadrama.m3u8",
+    "logo": "https:\/\/www.speda.net\/logo\/footer1.png",
+    "thumbnail": "https:\/\/www.speda.net\/logo\/footer1.png"
+  },
+  {
+    "id": "c46f8ad5-f94",
+    "name": "PESHANG",
+    "category": "Quran",
+    "url": "https:\/\/stream.forcaroo.com\/stream\/hls\/desktop.m3u8",
+    "logo": "https:\/\/imgur.com\/JVjnVFh.png",
+    "thumbnail": "https:\/\/imgur.com\/JVjnVFh.png"
+  },
+  {
+    "id": "0fb89dd4-981",
+    "name": "CHANNEL MOTOR",
+    "category": "KRD Sport",
+    "url": "https:\/\/digicom.hls.iptvdc.com\/canalmotor\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "6b512a98-c1f",
+    "name": "ALRABAA",
+    "category": "KRD News",
+    "url": "https:\/\/stream.qi.tv\/bpk-tv\/alrabiaa_news_web\/default\/index.mpd?hdntl=exp=1791924180~acl=%2f*~data=hdntl~hmac=544c2cd3d5afe2ca10006d3c6ed5b1c4d9d99697ffb59426fb653d87c59c5157",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "660ffd12-5f8",
+    "name": "AVA TV",
+    "category": "KRD News",
+    "url": "http:\/\/hlspackager.akamaized.net\/live\/DB\/AVA_TV\/HLS\/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQHjoEAP1GGyOn-_z3KpXocINiq6Pjo4RR3OpRoEf5G4w&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQHjoEAP1GGyOn-_z3KpXocINiq6Pjo4RR3OpRoEf5G4w&s=10"
+  },
+  {
+    "id": "588082f3-e98",
+    "name": "ALWAN SPORTS 1",
+    "category": "5",
+    "url": "https:\/\/blcco.linkip.org\/live\/3461_.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5aa1cc80-76c",
+    "name": "ALWAN SPORTS 2",
+    "category": "5",
+    "url": "https:\/\/blcco.linkip.org\/live\/3460_.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "33d703b8-64c",
+    "name": "ALWAN SPORTS 3",
+    "category": "5",
+    "url": "https:\/\/blcco.linkip.org\/live\/3459_.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "63386946-96a",
+    "name": "GAGS",
+    "category": "77",
+    "url": "https:\/\/distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv\/1200.m3u8",
+    "logo": "https:\/\/images.seeklogo.com\/logo-png\/61\/1\/just-for-laughs-comedy-festival-logo-png_seeklogo-611921.png",
+    "thumbnail": "https:\/\/images.seeklogo.com\/logo-png\/61\/1\/just-for-laughs-comedy-festival-logo-png_seeklogo-611921.png"
+  },
+  {
+    "id": "d7f0bede-29e",
+    "name": "MIRNA TV",
+    "category": "5",
+    "url": "http:\/\/161.97.123.126:8081\/stream\/mirna\/master.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "65c82f07-7b0",
+    "name": "CHANNEL 8",
+    "category": "KRD News",
+    "url": "https:\/\/live.channel8.com\/Channel8-Kurdish\/tracks-v4\/index.fmp4.m3u8",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10",
+    "thumbnail": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10"
+  },
+  {
+    "id": "6a4ed2df-c62",
+    "name": "RUDAW HD",
+    "category": "KRD News",
+    "url": "https:\/\/live.rudaw.net\/hls\/rudaw-tv\/stream_1080p.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "fc1de64f-15e",
+    "name": "ZHIN FILM",
+    "category": "5",
+    "url": "https:\/\/dbmxnhsnipbpycmdmmer.supabase.co\/functions\/v1\/iptv-m3u-proxy?url=https%3A%2F%2Flive-aburayhan1109.telewebion.ir%2Fek%2Fkordestan%2Flive%2F1080p%2Findex.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "a8f129e8-26b",
+    "name": "SHNA DUC",
+    "category": "5",
+    "url": "https:\/\/dbmxnhsnipbpycmdmmer.supabase.co\/functions\/v1\/iptv-m3u-proxy?url=http%3A%2F%2Favrstream.com%3A1935%2Flive%2FSoranEntertainment%2Ftracks-v1a1%2Fmono.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "02120262-842",
+    "name": "DUNYA",
+    "category": "5",
+    "url": "https:\/\/dbmxnhsnipbpycmdmmer.supabase.co\/functions\/v1\/iptv-m3u-proxy?url=http%3A%2F%2Fdunyahd.ddns.net%2Flive%2FDunyaHd%2Ftracks-v1a1%2Fmono.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "b44a44b9-949",
+    "name": "AVA SPORTS",
+    "category": "5",
+    "url": "https:\/\/andam.uk\/ytlive\/avasport\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "584ffe58-aa9",
+    "name": "NRT SPORTS",
+    "category": "5",
+    "url": "https:\/\/andam.uk\/ytlive\/nrtsport\/index.m3u8",
+    "logo": "https:\/\/safiafamily.com\/uploads\/family\/kurdish_sport\/NRT_SPORT.png",
+    "thumbnail": "https:\/\/safiafamily.com\/uploads\/family\/kurdish_sport\/NRT_SPORT.png"
+  },
+  {
+    "id": "d0c3c4be-457",
+    "name": "BEIN SPORTS 1",
+    "category": "5",
+    "url": "https:\/\/edge22.358598.ir.cdn.ir\/hls2\/bein1.m3u8",
+    "logo": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg",
+    "thumbnail": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg"
+  },
+  {
+    "id": "02bd1df1-6db",
+    "name": "BEIN UDR",
+    "category": "5",
+    "url": "https:\/\/dbmxnhsnipbpycmdmmer.supabase.co\/functions\/v1\/iptv-m3u-proxy?url=https%3A%2F%2Flive-aburayhan1112.telewebion.net%2Fek%2Ffaratar%2Flive%2F2160p%2Findex.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "eed5cf50-81f",
+    "name": "ALWAN SPORTS 1",
+    "category": "5",
+    "url": "https:\/\/andam.uk\/ytlive\/alwansport\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "41d0858b-bae",
+    "name": "ALWAN SPORTS 2",
+    "category": "5",
+    "url": "https:\/\/andam.uk\/ytlive\/sport1you\/index.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "8ee36419-186",
+    "name": "ALWAN SPORTS 3",
+    "category": "5",
+    "url": "https:\/\/dbmxnhsnipbpycmdmmer.supabase.co\/functions\/v1\/iptv-m3u-proxy?url=https%3A%2F%2Fandam.uk%2Fytlive%2Fsport1you%2Findex.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "a80e2ae8-0e5",
+    "name": "ESPN8",
+    "category": "5",
+    "url": "https:\/\/d3b6q2ou5kp8ke.cloudfront.net\/ESPNTheOcho_6.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "124d6be6-9cd",
+    "name": "BOB ROSS",
+    "category": "5",
+    "url": "https:\/\/dbmxnhsnipbpycmdmmer.supabase.co\/functions\/v1\/iptv-m3u-proxy?url=https%3A%2F%2Faka-live1050.delivery.roku.com%2F1ede7a2e-3bdb-4abf-8fda-db572772aae4%2Ft2-origin%2Fout%2Fv1%2Flive_288.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "0a18454b-f37",
+    "name": "REAL MADRID TV",
+    "category": "5",
+    "url": "https:\/\/a.tubi1.apollo.adrise.io\/live\/real-madrid-gtcmde\/1280x720.m3u8?ap.route=VLx2Pl6UQE2xExt83EQy1LKWgmM&ap.pt=0&ap.playback_start_ts=1793396274&ap.sid=5f80946c-a807-4e0a-83ef-5c4bd0dc60c9&ap.ss=2734b067113e15cedbbd9397e0399d7a&playback_start_ts=1793396273",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "64c7fd6c-b2c",
+    "name": "BOB ROSS 2",
+    "category": "5",
+    "url": "https:\/\/bobrosschannel.com\/wp-content\/uploads\/BoB_Ross_Website-1.mp4",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "6a2572d3-b0a",
+    "name": "BOB ROSS 3",
+    "category": "5",
+    "url": "https:\/\/cineverse.g-mana.live\/media\/c2ce5f66-740e-4a5d-92d2-a9e9f2cea781\/playlist_1.m3u8?_uid=62a94f36-f523-48cc-ac93-00f152caf2a0&rK=c1&_did=74e11ed9-b9cf-b5a2-fe7c-f98d3e67827b",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "d5d85099-df6",
+    "name": "BEIN SPORTS 3",
+    "category": "5",
+    "url": "https:\/\/lolotv.ai.studio\/api\/123\/live.m3u8?ch=3",
+    "logo": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg",
+    "thumbnail": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg"
+  },
+  {
+    "id": "e28001f6-7c3",
+    "name": "BEIN SPORTS 2",
+    "category": "5",
+    "url": "https:\/\/lolotv.ai.studio\/api\/123\/live.m3u8",
+    "logo": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg",
+    "thumbnail": "https:\/\/cdn.miswag.me\/images\/images\/miswag_oUHT2K.jpg"
+  },
+  {
+    "id": "c6136044-b83",
+    "name": "NEWLINE SPORTS",
+    "category": "5",
+    "url": "http:\/\/mhav1.com:2095\/live\/461932718\/362916328\/212777.ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "3b5c3576-9de",
+    "name": "NEWLINE DRAMA",
+    "category": "5",
+    "url": "http:\/\/mhav1.com:2095\/live\/461932718\/362916328\/212780.ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "9bcd48f9-f9c",
+    "name": "NEWLINE MOVIE",
+    "category": "5",
+    "url": "http:\/\/mhav1.com:2095\/live\/461932718\/362916328\/212778.ts",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "359b165a-1b0",
+    "name": "MIRNA",
+    "category": "5",
+    "url": "http:\/\/161.97.123.126:8081\/stream\/mirna\/master.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  },
+  {
+    "id": "5007f0bd-6b7",
+    "name": "NOOR TV",
+    "category": "FAMILY",
+    "url": "https:\/\/183.giatvcdn.com\/giatv\/giatv-onetvnoor\/onetvnoor\/chunks.m3u8",
+    "logo": "",
+    "thumbnail": ""
+  }
+]
